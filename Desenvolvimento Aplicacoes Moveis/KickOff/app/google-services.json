@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "582605056815",
+    "project_id": "kickoff-fantasy",
+    "storage_bucket": "kickoff-fantasy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582605056815:android:7996f9c937420f6ad20fda",
+        "android_client_info": {
+          "package_name": "com.example.kickoff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582605056815-kfvkvlfjtsu9084anvsciprvqipeimfu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kickoff",
+            "certificate_hash": "505145a3d07ebf365571dd265e57dd789649369d"
+          }
+        },
+        {
+          "client_id": "582605056815-06cjgu0ee39f75dri586g6abi6c51ru0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhpOBt3zAk7EA7Bba1-F2Cl_iafgNVw0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582605056815-06cjgu0ee39f75dri586g6abi6c51ru0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

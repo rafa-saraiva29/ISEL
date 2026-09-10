@@ -1,0 +1,2877 @@
+[
+    {
+        "label": "Estado",
+        "importPath": "mod.estado",
+        "description": "mod.estado",
+        "isExtraImport": true,
+        "detail": "mod.estado",
+        "documentation": {}
+    },
+    {
+        "label": "Estado",
+        "importPath": "mod.estado",
+        "description": "mod.estado",
+        "isExtraImport": true,
+        "detail": "mod.estado",
+        "documentation": {}
+    },
+    {
+        "label": "Estado",
+        "importPath": "mod.estado",
+        "description": "mod.estado",
+        "isExtraImport": true,
+        "detail": "mod.estado",
+        "documentation": {}
+    },
+    {
+        "label": "ModeloPlan",
+        "importPath": "plan.modelo.modelo_plan",
+        "description": "plan.modelo.modelo_plan",
+        "isExtraImport": true,
+        "detail": "plan.modelo.modelo_plan",
+        "documentation": {}
+    },
+    {
+        "label": "Elemento",
+        "importPath": "sae",
+        "description": "sae",
+        "isExtraImport": true,
+        "detail": "sae",
+        "documentation": {}
+    },
+    {
+        "label": "Direccao",
+        "importPath": "sae",
+        "description": "sae",
+        "isExtraImport": true,
+        "detail": "sae",
+        "documentation": {}
+    },
+    {
+        "label": "Accao",
+        "importPath": "sae",
+        "description": "sae",
+        "isExtraImport": true,
+        "detail": "sae",
+        "documentation": {}
+    },
+    {
+        "label": "Controlo",
+        "importPath": "sae",
+        "description": "sae",
+        "isExtraImport": true,
+        "detail": "sae",
+        "documentation": {}
+    },
+    {
+        "label": "Elemento",
+        "importPath": "sae",
+        "description": "sae",
+        "isExtraImport": true,
+        "detail": "sae",
+        "documentation": {}
+    },
+    {
+        "label": "Direccao",
+        "importPath": "sae",
+        "description": "sae",
+        "isExtraImport": true,
+        "detail": "sae",
+        "documentation": {}
+    },
+    {
+        "label": "Elemento",
+        "importPath": "sae",
+        "description": "sae",
+        "isExtraImport": true,
+        "detail": "sae",
+        "documentation": {}
+    },
+    {
+        "label": "Direccao",
+        "importPath": "sae",
+        "description": "sae",
+        "isExtraImport": true,
+        "detail": "sae",
+        "documentation": {}
+    },
+    {
+        "label": "Direccao",
+        "importPath": "sae",
+        "description": "sae",
+        "isExtraImport": true,
+        "detail": "sae",
+        "documentation": {}
+    },
+    {
+        "label": "Direccao",
+        "importPath": "sae",
+        "description": "sae",
+        "isExtraImport": true,
+        "detail": "sae",
+        "documentation": {}
+    },
+    {
+        "label": "Accao",
+        "importPath": "sae",
+        "description": "sae",
+        "isExtraImport": true,
+        "detail": "sae",
+        "documentation": {}
+    },
+    {
+        "label": "Direccao",
+        "importPath": "sae",
+        "description": "sae",
+        "isExtraImport": true,
+        "detail": "sae",
+        "documentation": {}
+    },
+    {
+        "label": "Accao",
+        "importPath": "sae",
+        "description": "sae",
+        "isExtraImport": true,
+        "detail": "sae",
+        "documentation": {}
+    },
+    {
+        "label": "Controlo",
+        "importPath": "sae",
+        "description": "sae",
+        "isExtraImport": true,
+        "detail": "sae",
+        "documentation": {}
+    },
+    {
+        "label": "Agente",
+        "importPath": "sae",
+        "description": "sae",
+        "isExtraImport": true,
+        "detail": "sae",
+        "documentation": {}
+    },
+    {
+        "label": "Simulador",
+        "importPath": "sae",
+        "description": "sae",
+        "isExtraImport": true,
+        "detail": "sae",
+        "documentation": {}
+    },
+    {
+        "label": "Agente",
+        "importPath": "sae",
+        "description": "sae",
+        "isExtraImport": true,
+        "detail": "sae",
+        "documentation": {}
+    },
+    {
+        "label": "Simulador",
+        "importPath": "sae",
+        "description": "sae",
+        "isExtraImport": true,
+        "detail": "sae",
+        "documentation": {}
+    },
+    {
+        "label": "Agente",
+        "importPath": "sae",
+        "description": "sae",
+        "isExtraImport": true,
+        "detail": "sae",
+        "documentation": {}
+    },
+    {
+        "label": "Simulador",
+        "importPath": "sae",
+        "description": "sae",
+        "isExtraImport": true,
+        "detail": "sae",
+        "documentation": {}
+    },
+    {
+        "label": "Agente",
+        "importPath": "sae",
+        "description": "sae",
+        "isExtraImport": true,
+        "detail": "sae",
+        "documentation": {}
+    },
+    {
+        "label": "Simulador",
+        "importPath": "sae",
+        "description": "sae",
+        "isExtraImport": true,
+        "detail": "sae",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "dist",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "dist",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "Operador",
+        "importPath": "mod.operador",
+        "description": "mod.operador",
+        "isExtraImport": true,
+        "detail": "mod.operador",
+        "documentation": {}
+    },
+    {
+        "label": "Operador",
+        "importPath": "mod.operador",
+        "description": "mod.operador",
+        "isExtraImport": true,
+        "detail": "mod.operador",
+        "documentation": {}
+    },
+    {
+        "label": "Operador",
+        "importPath": "mod.operador",
+        "description": "mod.operador",
+        "isExtraImport": true,
+        "detail": "mod.operador",
+        "documentation": {}
+    },
+    {
+        "label": "Prioridade",
+        "importPath": "ecr.prioridade",
+        "description": "ecr.prioridade",
+        "isExtraImport": true,
+        "detail": "ecr.prioridade",
+        "documentation": {}
+    },
+    {
+        "label": "Reaccao",
+        "importPath": "ecr.reaccao",
+        "description": "ecr.reaccao",
+        "isExtraImport": true,
+        "detail": "ecr.reaccao",
+        "documentation": {}
+    },
+    {
+        "label": "Reaccao",
+        "importPath": "ecr.reaccao",
+        "description": "ecr.reaccao",
+        "isExtraImport": true,
+        "detail": "ecr.reaccao",
+        "documentation": {}
+    },
+    {
+        "label": "Estimulo",
+        "importPath": "ecr.estimulo",
+        "description": "ecr.estimulo",
+        "isExtraImport": true,
+        "detail": "ecr.estimulo",
+        "documentation": {}
+    },
+    {
+        "label": "Estimulo",
+        "importPath": "ecr.estimulo",
+        "description": "ecr.estimulo",
+        "isExtraImport": true,
+        "detail": "ecr.estimulo",
+        "documentation": {}
+    },
+    {
+        "label": "Hierarquia",
+        "importPath": "ecr.hierarquia",
+        "description": "ecr.hierarquia",
+        "isExtraImport": true,
+        "detail": "ecr.hierarquia",
+        "documentation": {}
+    },
+    {
+        "label": "Hierarquia",
+        "importPath": "ecr.hierarquia",
+        "description": "ecr.hierarquia",
+        "isExtraImport": true,
+        "detail": "ecr.hierarquia",
+        "documentation": {}
+    },
+    {
+        "label": "choice",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "choice",
+        "importPath": "random",
+        "description": "random",
+        "isExtraImport": true,
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "Comportamento",
+        "importPath": "ecr.comportamento",
+        "description": "ecr.comportamento",
+        "isExtraImport": true,
+        "detail": "ecr.comportamento",
+        "documentation": {}
+    },
+    {
+        "label": "Comportamento",
+        "importPath": "ecr.comportamento",
+        "description": "ecr.comportamento",
+        "isExtraImport": true,
+        "detail": "ecr.comportamento",
+        "documentation": {}
+    },
+    {
+        "label": "Comportamento",
+        "importPath": "ecr.comportamento",
+        "description": "ecr.comportamento",
+        "isExtraImport": true,
+        "detail": "ecr.comportamento",
+        "documentation": {}
+    },
+    {
+        "label": "Resposta",
+        "importPath": "ecr.resposta",
+        "description": "ecr.resposta",
+        "isExtraImport": true,
+        "detail": "ecr.resposta",
+        "documentation": {}
+    },
+    {
+        "label": "ControloDelib",
+        "importPath": "controlo_delib.controlo_delib",
+        "description": "controlo_delib.controlo_delib",
+        "isExtraImport": true,
+        "detail": "controlo_delib.controlo_delib",
+        "documentation": {}
+    },
+    {
+        "label": "ControloDelib",
+        "importPath": "controlo_delib.controlo_delib",
+        "description": "controlo_delib.controlo_delib",
+        "isExtraImport": true,
+        "detail": "controlo_delib.controlo_delib",
+        "documentation": {}
+    },
+    {
+        "label": "PlaneadorPDM",
+        "importPath": "plan.plan_pdm.planeador_pdm",
+        "description": "plan.plan_pdm.planeador_pdm",
+        "isExtraImport": true,
+        "detail": "plan.plan_pdm.planeador_pdm",
+        "documentation": {}
+    },
+    {
+        "label": "PlaneadorPEE",
+        "importPath": "plan.plan_pee.planeador_pee",
+        "description": "plan.plan_pee.planeador_pee",
+        "isExtraImport": true,
+        "detail": "plan.plan_pee.planeador_pee",
+        "documentation": {}
+    },
+    {
+        "label": "ControloReact",
+        "importPath": "agente.controlo_react.controlo_react",
+        "description": "agente.controlo_react.controlo_react",
+        "isExtraImport": true,
+        "detail": "agente.controlo_react.controlo_react",
+        "documentation": {}
+    },
+    {
+        "label": "ControloReact",
+        "importPath": "agente.controlo_react.controlo_react",
+        "description": "agente.controlo_react.controlo_react",
+        "isExtraImport": true,
+        "detail": "agente.controlo_react.controlo_react",
+        "documentation": {}
+    },
+    {
+        "label": "Recolher",
+        "importPath": "agente.controlo_react.reaccoes.recolher",
+        "description": "agente.controlo_react.reaccoes.recolher",
+        "isExtraImport": true,
+        "detail": "agente.controlo_react.reaccoes.recolher",
+        "documentation": {}
+    },
+    {
+        "label": "ComportTeste",
+        "importPath": "agente.controlo_react.reaccoes.comport_teste",
+        "description": "agente.controlo_react.reaccoes.comport_teste",
+        "isExtraImport": true,
+        "detail": "agente.controlo_react.reaccoes.comport_teste",
+        "documentation": {}
+    },
+    {
+        "label": "Heuristica",
+        "importPath": "pee.melhor_prim.heuristica",
+        "description": "pee.melhor_prim.heuristica",
+        "isExtraImport": true,
+        "detail": "pee.melhor_prim.heuristica",
+        "documentation": {}
+    },
+    {
+        "label": "Heuristica",
+        "importPath": "pee.melhor_prim.heuristica",
+        "description": "pee.melhor_prim.heuristica",
+        "isExtraImport": true,
+        "detail": "pee.melhor_prim.heuristica",
+        "documentation": {}
+    },
+    {
+        "label": "Problema",
+        "importPath": "mod.problema",
+        "description": "mod.problema",
+        "isExtraImport": true,
+        "detail": "mod.problema",
+        "documentation": {}
+    },
+    {
+        "label": "Problema",
+        "importPath": "mod.problema",
+        "description": "mod.problema",
+        "isExtraImport": true,
+        "detail": "mod.problema",
+        "documentation": {}
+    },
+    {
+        "label": "ProcuraProfundidade",
+        "importPath": "pee.prof.procura_profundidade",
+        "description": "pee.prof.procura_profundidade",
+        "isExtraImport": true,
+        "detail": "pee.prof.procura_profundidade",
+        "documentation": {}
+    },
+    {
+        "label": "ProcuraLargura",
+        "importPath": "pee.larg.procura_largura",
+        "description": "pee.larg.procura_largura",
+        "isExtraImport": true,
+        "detail": "pee.larg.procura_largura",
+        "documentation": {}
+    },
+    {
+        "label": "ProblemaContagem",
+        "importPath": "mod_prob.problema_contagem",
+        "description": "mod_prob.problema_contagem",
+        "isExtraImport": true,
+        "detail": "mod_prob.problema_contagem",
+        "documentation": {}
+    },
+    {
+        "label": "ProcuraCustoUnif",
+        "importPath": "pee.melhor_prim.procura_custo_unif",
+        "description": "pee.melhor_prim.procura_custo_unif",
+        "isExtraImport": true,
+        "detail": "pee.melhor_prim.procura_custo_unif",
+        "documentation": {}
+    },
+    {
+        "label": "ProcuraAA",
+        "importPath": "pee.melhor_prim.procura_aa",
+        "description": "pee.melhor_prim.procura_aa",
+        "isExtraImport": true,
+        "detail": "pee.melhor_prim.procura_aa",
+        "documentation": {}
+    },
+    {
+        "label": "ProcuraAA",
+        "importPath": "pee.melhor_prim.procura_aa",
+        "description": "pee.melhor_prim.procura_aa",
+        "isExtraImport": true,
+        "detail": "pee.melhor_prim.procura_aa",
+        "documentation": {}
+    },
+    {
+        "label": "HeuristicaContagem",
+        "importPath": "mod_prob.heuristica_contagem",
+        "description": "mod_prob.heuristica_contagem",
+        "isExtraImport": true,
+        "detail": "mod_prob.heuristica_contagem",
+        "documentation": {}
+    },
+    {
+        "label": "ProcuraSofrega",
+        "importPath": "pee.melhor_prim.procura_sofrega",
+        "description": "pee.melhor_prim.procura_sofrega",
+        "isExtraImport": true,
+        "detail": "pee.melhor_prim.procura_sofrega",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "heappush",
+        "importPath": "heapq",
+        "description": "heapq",
+        "isExtraImport": true,
+        "detail": "heapq",
+        "documentation": {}
+    },
+    {
+        "label": "heappop",
+        "importPath": "heapq",
+        "description": "heapq",
+        "isExtraImport": true,
+        "detail": "heapq",
+        "documentation": {}
+    },
+    {
+        "label": "ModeloPDM",
+        "importPath": "pdm.modelo.modelo_pdm",
+        "description": "pdm.modelo.modelo_pdm",
+        "isExtraImport": true,
+        "detail": "pdm.modelo.modelo_pdm",
+        "documentation": {}
+    },
+    {
+        "label": "PDM",
+        "importPath": "pdm.pdm",
+        "description": "pdm.pdm",
+        "isExtraImport": true,
+        "detail": "pdm.pdm",
+        "documentation": {}
+    },
+    {
+        "label": "VistaAmb",
+        "importPath": "sae.vistas.vista_amb",
+        "description": "sae.vistas.vista_amb",
+        "isExtraImport": true,
+        "detail": "sae.vistas.vista_amb",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "pygame",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pygame",
+        "description": "pygame",
+        "detail": "pygame",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "pygame.gfxdraw",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pygame.gfxdraw",
+        "description": "pygame.gfxdraw",
+        "detail": "pygame.gfxdraw",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "EstadoAgente",
+        "kind": 6,
+        "importPath": "src.agente.controlo_delib.modelo.estado_agente",
+        "description": "src.agente.controlo_delib.modelo.estado_agente",
+        "peekOfCode": "class EstadoAgente(Estado):\n    def __init__(self, posicao):\n        self.__posicao = posicao\n    @property\n    def posicao(self):\n        return self.__posicao\n    def id_valor(self):\n        return hash(self.posicao)",
+        "detail": "src.agente.controlo_delib.modelo.estado_agente",
+        "documentation": {}
+    },
+    {
+        "label": "ModeloMundo",
+        "kind": 6,
+        "importPath": "src.agente.controlo_delib.modelo.modelo_mundo",
+        "description": "src.agente.controlo_delib.modelo.modelo_mundo",
+        "peekOfCode": "class ModeloMundo(ModeloPlan):\n    def __init__(self):\n        self.__estado = None\n        self.__estados = []\n        self.__elementos = {}\n        self.__recolha = False\n        self.__operadores = [OperadorMover(self, direccao) for direccao in Direccao]\n    @property\n    def alterado(self):\n        return self.__recolha",
+        "detail": "src.agente.controlo_delib.modelo.modelo_mundo",
+        "documentation": {}
+    },
+    {
+        "label": "OperadorMover",
+        "kind": 6,
+        "importPath": "src.agente.controlo_delib.modelo.operador_mover",
+        "description": "src.agente.controlo_delib.modelo.operador_mover",
+        "peekOfCode": "class OperadorMover(Operador):\n    def __init__(self, modelo_mundo, direccao):\n        self.__modelo_mundo = modelo_mundo\n        self.__accao = Accao(direccao)\n    @property\n    def ang(self):\n        return self.__accao.direccao.value\n    @property\n    def accao(self):\n        return self.__accao",
+        "detail": "src.agente.controlo_delib.modelo.operador_mover",
+        "documentation": {}
+    },
+    {
+        "label": "ControloDelib",
+        "kind": 6,
+        "importPath": "src.agente.controlo_delib.controlo_delib",
+        "description": "src.agente.controlo_delib.controlo_delib",
+        "peekOfCode": "class ControloDelib(Controlo):\n    def __init__(self, planeador):\n        self.__planeador = planeador\n        self.__objectivos = None\n        self.__modelo_mundo = ModeloMundo()\n        self.__mec_delib = MecDelib(self.__modelo_mundo)\n        self.__plano = None\n    \"\"\"\n    Ciclo de tomada de decisão e ação\n    \"\"\"",
+        "detail": "src.agente.controlo_delib.controlo_delib",
+        "documentation": {}
+    },
+    {
+        "label": "MecDelib",
+        "kind": 6,
+        "importPath": "src.agente.controlo_delib.mec_delib",
+        "description": "src.agente.controlo_delib.mec_delib",
+        "peekOfCode": "class MecDelib:\n    def __init__(self, modelo_mundo):\n        self.__modelo_mundo = modelo_mundo\n    \"\"\"\n    Método responsável por realizar a deliberação. Partindo dos estados válido obtidos através do\n    modelo do mundo, gera uma lista de objetivos que correspondem a estados cujo elemento é um\n    alvo. Adicionalmente, esta lista é ordenada por distância, isto é, os objetivos que estão\n    no início da lista são os que estão mais próximos do agente, utilizando a distância euclidiana.\n    \"\"\"\n    def deliberar(self):",
+        "detail": "src.agente.controlo_delib.mec_delib",
+        "documentation": {}
+    },
+    {
+        "label": "AproximarAlvo",
+        "kind": 6,
+        "importPath": "src.agente.controlo_react.reaccoes.aproximar.aproximar_alvo",
+        "description": "src.agente.controlo_react.reaccoes.aproximar.aproximar_alvo",
+        "peekOfCode": "class AproximarAlvo(Prioridade):\n    __comportamentos = [AproximarDir(Direccao.NORTE), \n                        AproximarDir(Direccao.SUL), \n                        AproximarDir(Direccao.ESTE),\n                        AproximarDir(Direccao.OESTE)]\n    \"\"\"\n    Construtor da classe que ativa o contrutor da super classe ComportComp. A super classe necessita de receber\n    uma lista de comportamentos e, como esta classe é uma prioridade, a ordem da lista de \n    comportamentos é indiferente pois o mecanismo de seleçao é a prioridade e esta vai ser definida\n    pela distancia do agente ao alvo. Essa lista é definida no atributo da classe __comportamentos.",
+        "detail": "src.agente.controlo_react.reaccoes.aproximar.aproximar_alvo",
+        "documentation": {}
+    },
+    {
+        "label": "AproximarDir",
+        "kind": 6,
+        "importPath": "src.agente.controlo_react.reaccoes.aproximar.aproximar_dir",
+        "description": "src.agente.controlo_react.reaccoes.aproximar.aproximar_dir",
+        "peekOfCode": "class AproximarDir(Reaccao):\n    \"\"\"\n    Esta classe associa um estimulo numa determinada direccao, a uma resposta nessa\n    mesma direccao, invocando o construtor da classe Reaccao\n    \"\"\"\n    def __init__(self, direccao):\n        super().__init__(EstimuloAlvo(direccao), RespostaMover(direccao))",
+        "detail": "src.agente.controlo_react.reaccoes.aproximar.aproximar_dir",
+        "documentation": {}
+    },
+    {
+        "label": "EstimuloAlvo",
+        "kind": 6,
+        "importPath": "src.agente.controlo_react.reaccoes.aproximar.estimulo_alvo",
+        "description": "src.agente.controlo_react.reaccoes.aproximar.estimulo_alvo",
+        "peekOfCode": "class EstimuloAlvo(Estimulo):\n    def __init__(self, direccao, gama = 0.9):\n        self.__direccao = direccao\n        self.__gama = gama\n    \"\"\"\n    metodo que deteta ou nao o alvo, caso detete calcula a intensidade do estimulo,\n    quanto maior a distancia, menor a intensidade\n    caso nao detete alvo, a intensidade é zero\n    \"\"\"\n    def detectar(self, percepcao):",
+        "detail": "src.agente.controlo_react.reaccoes.aproximar.estimulo_alvo",
+        "documentation": {}
+    },
+    {
+        "label": "EstimuloObst",
+        "kind": 6,
+        "importPath": "src.agente.controlo_react.reaccoes.evitar.estimulo_obst",
+        "description": "src.agente.controlo_react.reaccoes.evitar.estimulo_obst",
+        "peekOfCode": "class EstimuloObst(Estimulo):\n    def __init__(self, direccao, intensidade=1):\n        self.__direccao = direccao\n        self.__intensidade = intensidade\n    \"\"\"\n    metodo que deteta ou nao o obstaculo, caso detete a intensidade do estimulo é\n    maxima, corresponde a intensidade iniciada no construtor, definida a 1 por omissao\n    caso nao detete obstaculo, a intensidade é zero\n    \"\"\"\n    def detectar(self, percepcao):",
+        "detail": "src.agente.controlo_react.reaccoes.evitar.estimulo_obst",
+        "documentation": {}
+    },
+    {
+        "label": "EvitarDir",
+        "kind": 6,
+        "importPath": "src.agente.controlo_react.reaccoes.evitar.evitar_dir",
+        "description": "src.agente.controlo_react.reaccoes.evitar.evitar_dir",
+        "peekOfCode": "class EvitarDir(Reaccao):\n    def __init__(self, direccao, resposta):\n        super().__init__(EstimuloObst(direccao), resposta)",
+        "detail": "src.agente.controlo_react.reaccoes.evitar.evitar_dir",
+        "documentation": {}
+    },
+    {
+        "label": "EvitarObst",
+        "kind": 6,
+        "importPath": "src.agente.controlo_react.reaccoes.evitar.evitar_obst",
+        "description": "src.agente.controlo_react.reaccoes.evitar.evitar_obst",
+        "peekOfCode": "class EvitarObst(Hierarquia):\n    def __init__(self):\n        self.__resposta = RespostaEvitar()\n        super().__init__([EvitarDir(direccao, self.__resposta) for direccao in Direccao])",
+        "detail": "src.agente.controlo_react.reaccoes.evitar.evitar_obst",
+        "documentation": {}
+    },
+    {
+        "label": "RespostaEvitar",
+        "kind": 6,
+        "importPath": "src.agente.controlo_react.reaccoes.evitar.resposta_evitar",
+        "description": "src.agente.controlo_react.reaccoes.evitar.resposta_evitar",
+        "peekOfCode": "class RespostaEvitar(RespostaMover):\n    def __init__(self, dir_inicial=Direccao.ESTE):\n        self.__direccoes = list(Direccao)\n        super().__init__(dir_inicial)\n    def activar(self, percepcao, intensidade):\n        #if percepcao.contacto_obst(percepcao.direccao): , induzido em erro pela resposta do professor a uma questão\n        if percepcao.contacto_obst(self._accao.direccao):    \n            #direccao_livre = self.__direccao_livre(percepcao) , versao anterior correta mas alterada para fazer\n            # uso do operador :=, que afeta e testa na mesma linha\n            if direccao_livre := self.__direccao_livre(percepcao):",
+        "detail": "src.agente.controlo_react.reaccoes.evitar.resposta_evitar",
+        "documentation": {}
+    },
+    {
+        "label": "Explorar",
+        "kind": 6,
+        "importPath": "src.agente.controlo_react.reaccoes.explorar.explorar",
+        "description": "src.agente.controlo_react.reaccoes.explorar.explorar",
+        "peekOfCode": "class Explorar(Comportamento):\n    \"\"\"\n    metodo activar que ativa o comportamento, isto é, ativa a resposta com base numa\n    percepcao, gerando uma açao. neste caso a resposta é uma RespostaMoverAlet(), pois\n    esta gera açoes com uma direçao aleatoria\n    \"\"\"\n    def activar(self, percepcao):\n        resposta = RespostaMoverAleat()\n        return resposta.activar(percepcao)",
+        "detail": "src.agente.controlo_react.reaccoes.explorar.explorar",
+        "documentation": {}
+    },
+    {
+        "label": "ExplorarRodar",
+        "kind": 6,
+        "importPath": "src.agente.controlo_react.reaccoes.explorar.explorar_rodar",
+        "description": "src.agente.controlo_react.reaccoes.explorar.explorar_rodar",
+        "peekOfCode": "class ExplorarRodar(Comportamento):\n    \"\"\"\n    Dicionario que associa a direcao atual, obtida pela percepcao, com a direcao nova cumprindo\n    o requisito de rodar o agente no sentido dos ponteiros do relogio\n    \"\"\"\n    __direccoes_rodar = {\n            Direccao.NORTE: Direccao.ESTE,\n            Direccao.ESTE: Direccao.SUL,\n            Direccao.SUL: Direccao.OESTE,\n            Direccao.OESTE: Direccao.NORTE",
+        "detail": "src.agente.controlo_react.reaccoes.explorar.explorar_rodar",
+        "documentation": {}
+    },
+    {
+        "label": "RespostaMover",
+        "kind": 6,
+        "importPath": "src.agente.controlo_react.reaccoes.resposta.resposta_mover",
+        "description": "src.agente.controlo_react.reaccoes.resposta.resposta_mover",
+        "peekOfCode": "class RespostaMover(Resposta):\n    def __init__(self, direccao):\n        super().__init__(Accao(direccao))",
+        "detail": "src.agente.controlo_react.reaccoes.resposta.resposta_mover",
+        "documentation": {}
+    },
+    {
+        "label": "RespostaMoverAleat",
+        "kind": 6,
+        "importPath": "src.agente.controlo_react.reaccoes.resposta.resposta_mover_aleat",
+        "description": "src.agente.controlo_react.reaccoes.resposta.resposta_mover_aleat",
+        "peekOfCode": "class RespostaMoverAleat(RespostaMover):\n    \"\"\"\n    Construtor da classe que gera uma direçao aleatoria, a partir do enumerado Direccao,\n    com o auxilio da funçao choice da biblioteca random, e chama o construtor  da super\n    classe, com a direçao gerada\n    \"\"\"\n    def __init__(self):\n        direccao_aleatoria = choice(list(Direccao))\n        super().__init__(direccao_aleatoria)",
+        "detail": "src.agente.controlo_react.reaccoes.resposta.resposta_mover_aleat",
+        "documentation": {}
+    },
+    {
+        "label": "ComportTeste",
+        "kind": 6,
+        "importPath": "src.agente.controlo_react.reaccoes.comport_teste",
+        "description": "src.agente.controlo_react.reaccoes.comport_teste",
+        "peekOfCode": "class ComportTeste(Comportamento):\n    def activar(self, percepcao):\n        return Accao(percepcao.direccao)",
+        "detail": "src.agente.controlo_react.reaccoes.comport_teste",
+        "documentation": {}
+    },
+    {
+        "label": "Recolher",
+        "kind": 6,
+        "importPath": "src.agente.controlo_react.reaccoes.recolher",
+        "description": "src.agente.controlo_react.reaccoes.recolher",
+        "peekOfCode": "class Recolher(Hierarquia):\n    __comportamentos = [AproximarAlvo(), EvitarObst(), Explorar()]\n    \"\"\"\n    Construtor da classe que ativa o contrutor da super classe ComportComp. A super classe necessita de receber\n    uma lista de comportamentos e, como esta classe é uma hierarquia, essa lista tem que estar ordenada de acordo\n    com a prioridade de cada comportamento. Essa lista é definida no atributo da classe __comportamentos.\n    \"\"\"\n    def __init__(self):\n        super().__init__(self.__comportamentos)",
+        "detail": "src.agente.controlo_react.reaccoes.recolher",
+        "documentation": {}
+    },
+    {
+        "label": "ControloReact",
+        "kind": 6,
+        "importPath": "src.agente.controlo_react.controlo_react",
+        "description": "src.agente.controlo_react.controlo_react",
+        "peekOfCode": "class ControloReact(Controlo):\n    def __init__(self, comportamento):\n        self.__comportamento = comportamento\n        self.mostrar_per_dir = True\n    def processar(self, percepcao):\n        return self.__comportamento.activar(percepcao)",
+        "detail": "src.agente.controlo_react.controlo_react",
+        "documentation": {}
+    },
+    {
+        "label": "AgenteDelibPDM",
+        "kind": 6,
+        "importPath": "src.agente.agente_delib_pdm",
+        "description": "src.agente.agente_delib_pdm",
+        "peekOfCode": "class AgenteDelibPDM(Agente):\n    def __init__(self):\n        planeador = PlaneadorPDM(gama=0.98)\n        controlo = ControloDelib(planeador)\n        super().__init__(controlo)\n# Executar simulação\nif __name__ == '__main__':\n    Simulador(4, AgenteDelibPDM()).executar()",
+        "detail": "src.agente.agente_delib_pdm",
+        "documentation": {}
+    },
+    {
+        "label": "AgenteDelibPEE",
+        "kind": 6,
+        "importPath": "src.agente.agente_delib_pee",
+        "description": "src.agente.agente_delib_pee",
+        "peekOfCode": "class AgenteDelibPEE(Agente):\n    def __init__(self):\n        planeador = PlaneadorPEE()\n        controlo = ControloDelib(planeador)\n        super().__init__(controlo)\n# Executar simulação\nif __name__ == '__main__':\n    Simulador(4, AgenteDelibPEE()).executar()",
+        "detail": "src.agente.agente_delib_pee",
+        "documentation": {}
+    },
+    {
+        "label": "AgenteReactivo",
+        "kind": 6,
+        "importPath": "src.agente.agente_reactivo",
+        "description": "src.agente.agente_reactivo",
+        "peekOfCode": "class AgenteReactivo(Agente):\n    def __init__(self):\n        comportamento = Recolher()\n        controlo = ControloReact(comportamento)\n        super().__init__(controlo)\n# Executar simulação\nif __name__ == '__main__':\n    Simulador(1, AgenteReactivo()).executar()",
+        "detail": "src.agente.agente_reactivo",
+        "documentation": {}
+    },
+    {
+        "label": "AgenteTeste",
+        "kind": 6,
+        "importPath": "src.agente.agente_teste",
+        "description": "src.agente.agente_teste",
+        "peekOfCode": "class AgenteTeste(Agente):\n    def __init__(self):\n        comportamento = ComportTeste()\n        controlo = ControloReact(comportamento)\n        super().__init__(controlo)\n# Executar simulação\nif __name__ == '__main__':\n    Simulador(1, AgenteTeste()).executar()",
+        "detail": "src.agente.agente_teste",
+        "documentation": {}
+    },
+    {
+        "label": "EstadoContagem",
+        "kind": 6,
+        "importPath": "src.contagem.mod_prob.estado_contagem",
+        "description": "src.contagem.mod_prob.estado_contagem",
+        "peekOfCode": "class EstadoContagem(Estado):\n    def __init__(self, valor):\n        self.__valor = valor\n    @property\n    def valor(self):\n        return self.__valor\n    def id_valor(self):\n        return hash(self.__valor)\n    \"\"\"\n    Método utilizado para redifinir a forma como é realizada a visualização de um estado",
+        "detail": "src.contagem.mod_prob.estado_contagem",
+        "documentation": {}
+    },
+    {
+        "label": "HeuristicaContagem",
+        "kind": 6,
+        "importPath": "src.contagem.mod_prob.heuristica_contagem",
+        "description": "src.contagem.mod_prob.heuristica_contagem",
+        "peekOfCode": "class HeuristicaContagem(Heuristica):\n    def __init__(self, valor_final):\n        self.__valor_final = valor_final\n    def h(self, estado):\n        return abs(estado.valor - self.__valor_final)",
+        "detail": "src.contagem.mod_prob.heuristica_contagem",
+        "documentation": {}
+    },
+    {
+        "label": "OperadorIncremento",
+        "kind": 6,
+        "importPath": "src.contagem.mod_prob.operador_incremento",
+        "description": "src.contagem.mod_prob.operador_incremento",
+        "peekOfCode": "class OperadorIncremento(Operador):\n    def __init__(self, incremento):\n        self.__incremento = incremento\n    @property\n    def incremento(self):\n        return self.__incremento\n    \"\"\"\n    Neste método é realizada a transformação de estado aquando da aplicação do\n    operador. É retornado um novo estado cujo valor é igual á soma entre o valor\n    do estado que é recebido e o incremento do operador utilizado.",
+        "detail": "src.contagem.mod_prob.operador_incremento",
+        "documentation": {}
+    },
+    {
+        "label": "ProblemaContagem",
+        "kind": 6,
+        "importPath": "src.contagem.mod_prob.problema_contagem",
+        "description": "src.contagem.mod_prob.problema_contagem",
+        "peekOfCode": "class ProblemaContagem(Problema):\n    def __init__(self, valor_inicial, valor_final, incrementos):\n        estado_inicial = EstadoContagem(valor_inicial)\n        self.__valor_final = valor_final\n        operadores = [OperadorIncremento(inc) for inc in incrementos]\n        super().__init__(estado_inicial, operadores)\n    \"\"\"\n    O objetivo é atingido se o valor do estado atual for maior ou igual ao valor \n    final recebido no construtor.\n    \"\"\"",
+        "detail": "src.contagem.mod_prob.problema_contagem",
+        "documentation": {}
+    },
+    {
+        "label": "VALOR_INICIAL",
+        "kind": 5,
+        "importPath": "src.contagem.contagem",
+        "description": "src.contagem.contagem",
+        "peekOfCode": "VALOR_INICIAL = 0\nVALOR_FINAL = 9\nINCREMENTOS = [1, 2, -1]\n# Definir o problema\nproblema = ProblemaContagem(VALOR_INICIAL, VALOR_FINAL, INCREMENTOS)\nheuristica = HeuristicaContagem(VALOR_FINAL)\n# Iniciar mecanismo de procura\n#mec_proc = ProcuraProfundidade()\n#mec_proc = ProcuraLargura()\n#mec_proc = ProcuraAA()",
+        "detail": "src.contagem.contagem",
+        "documentation": {}
+    },
+    {
+        "label": "VALOR_FINAL",
+        "kind": 5,
+        "importPath": "src.contagem.contagem",
+        "description": "src.contagem.contagem",
+        "peekOfCode": "VALOR_FINAL = 9\nINCREMENTOS = [1, 2, -1]\n# Definir o problema\nproblema = ProblemaContagem(VALOR_INICIAL, VALOR_FINAL, INCREMENTOS)\nheuristica = HeuristicaContagem(VALOR_FINAL)\n# Iniciar mecanismo de procura\n#mec_proc = ProcuraProfundidade()\n#mec_proc = ProcuraLargura()\n#mec_proc = ProcuraAA()\nmec_proc = ProcuraSofrega()",
+        "detail": "src.contagem.contagem",
+        "documentation": {}
+    },
+    {
+        "label": "INCREMENTOS",
+        "kind": 5,
+        "importPath": "src.contagem.contagem",
+        "description": "src.contagem.contagem",
+        "peekOfCode": "INCREMENTOS = [1, 2, -1]\n# Definir o problema\nproblema = ProblemaContagem(VALOR_INICIAL, VALOR_FINAL, INCREMENTOS)\nheuristica = HeuristicaContagem(VALOR_FINAL)\n# Iniciar mecanismo de procura\n#mec_proc = ProcuraProfundidade()\n#mec_proc = ProcuraLargura()\n#mec_proc = ProcuraAA()\nmec_proc = ProcuraSofrega()\n# Resolver o problema",
+        "detail": "src.contagem.contagem",
+        "documentation": {}
+    },
+    {
+        "label": "problema",
+        "kind": 5,
+        "importPath": "src.contagem.contagem",
+        "description": "src.contagem.contagem",
+        "peekOfCode": "problema = ProblemaContagem(VALOR_INICIAL, VALOR_FINAL, INCREMENTOS)\nheuristica = HeuristicaContagem(VALOR_FINAL)\n# Iniciar mecanismo de procura\n#mec_proc = ProcuraProfundidade()\n#mec_proc = ProcuraLargura()\n#mec_proc = ProcuraAA()\nmec_proc = ProcuraSofrega()\n# Resolver o problema\nsolucao = mec_proc.procurar(problema, heuristica)\n# Mostrar a solução",
+        "detail": "src.contagem.contagem",
+        "documentation": {}
+    },
+    {
+        "label": "heuristica",
+        "kind": 5,
+        "importPath": "src.contagem.contagem",
+        "description": "src.contagem.contagem",
+        "peekOfCode": "heuristica = HeuristicaContagem(VALOR_FINAL)\n# Iniciar mecanismo de procura\n#mec_proc = ProcuraProfundidade()\n#mec_proc = ProcuraLargura()\n#mec_proc = ProcuraAA()\nmec_proc = ProcuraSofrega()\n# Resolver o problema\nsolucao = mec_proc.procurar(problema, heuristica)\n# Mostrar a solução\nfor passo in solucao:",
+        "detail": "src.contagem.contagem",
+        "documentation": {}
+    },
+    {
+        "label": "#mec_proc",
+        "kind": 5,
+        "importPath": "src.contagem.contagem",
+        "description": "src.contagem.contagem",
+        "peekOfCode": "#mec_proc = ProcuraProfundidade()\n#mec_proc = ProcuraLargura()\n#mec_proc = ProcuraAA()\nmec_proc = ProcuraSofrega()\n# Resolver o problema\nsolucao = mec_proc.procurar(problema, heuristica)\n# Mostrar a solução\nfor passo in solucao:\n    print(passo.estado, passo.operador)",
+        "detail": "src.contagem.contagem",
+        "documentation": {}
+    },
+    {
+        "label": "#mec_proc",
+        "kind": 5,
+        "importPath": "src.contagem.contagem",
+        "description": "src.contagem.contagem",
+        "peekOfCode": "#mec_proc = ProcuraLargura()\n#mec_proc = ProcuraAA()\nmec_proc = ProcuraSofrega()\n# Resolver o problema\nsolucao = mec_proc.procurar(problema, heuristica)\n# Mostrar a solução\nfor passo in solucao:\n    print(passo.estado, passo.operador)",
+        "detail": "src.contagem.contagem",
+        "documentation": {}
+    },
+    {
+        "label": "#mec_proc",
+        "kind": 5,
+        "importPath": "src.contagem.contagem",
+        "description": "src.contagem.contagem",
+        "peekOfCode": "#mec_proc = ProcuraAA()\nmec_proc = ProcuraSofrega()\n# Resolver o problema\nsolucao = mec_proc.procurar(problema, heuristica)\n# Mostrar a solução\nfor passo in solucao:\n    print(passo.estado, passo.operador)",
+        "detail": "src.contagem.contagem",
+        "documentation": {}
+    },
+    {
+        "label": "mec_proc",
+        "kind": 5,
+        "importPath": "src.contagem.contagem",
+        "description": "src.contagem.contagem",
+        "peekOfCode": "mec_proc = ProcuraSofrega()\n# Resolver o problema\nsolucao = mec_proc.procurar(problema, heuristica)\n# Mostrar a solução\nfor passo in solucao:\n    print(passo.estado, passo.operador)",
+        "detail": "src.contagem.contagem",
+        "documentation": {}
+    },
+    {
+        "label": "solucao",
+        "kind": 5,
+        "importPath": "src.contagem.contagem",
+        "description": "src.contagem.contagem",
+        "peekOfCode": "solucao = mec_proc.procurar(problema, heuristica)\n# Mostrar a solução\nfor passo in solucao:\n    print(passo.estado, passo.operador)",
+        "detail": "src.contagem.contagem",
+        "documentation": {}
+    },
+    {
+        "label": "Comportamento",
+        "kind": 6,
+        "importPath": "src.lib.ecr.comportamento",
+        "description": "src.lib.ecr.comportamento",
+        "peekOfCode": "class Comportamento(ABC):\n    @abstractmethod\n    def activar(self, percepcao):\n        \"\"\"\"\"\"",
+        "detail": "src.lib.ecr.comportamento",
+        "documentation": {}
+    },
+    {
+        "label": "ComportComp",
+        "kind": 6,
+        "importPath": "src.lib.ecr.comport_comp",
+        "description": "src.lib.ecr.comport_comp",
+        "peekOfCode": "class ComportComp(Comportamento):\n    def __init__(self, comportamentos):\n        self.__comportamentos = comportamentos\n    def activar(self, percepcao):\n        accoes = []\n        for comportamento in self.__comportamentos:\n            accao = comportamento.activar(percepcao)\n            if accao:\n                accoes.append(accao)\n        if accoes:",
+        "detail": "src.lib.ecr.comport_comp",
+        "documentation": {}
+    },
+    {
+        "label": "Estimulo",
+        "kind": 6,
+        "importPath": "src.lib.ecr.estimulo",
+        "description": "src.lib.ecr.estimulo",
+        "peekOfCode": "class Estimulo(ABC):\n    @abstractmethod\n    def detectar(self, percepcao):\n        \"\"\"Detetar estimulo\"\"\"",
+        "detail": "src.lib.ecr.estimulo",
+        "documentation": {}
+    },
+    {
+        "label": "Hierarquia",
+        "kind": 6,
+        "importPath": "src.lib.ecr.hierarquia",
+        "description": "src.lib.ecr.hierarquia",
+        "peekOfCode": "class Hierarquia(ComportComp):\n    \"\"\"\n    Metodo responsavel por selecionar a açao com base numa lista de açoes\n    Neste caso, partindo do pressuposto que a lista de açoes é construida de modo a que a lista esteja\n    ordenada de acordo com a prioridade das açoes, de forma decrescente, a açao selecionada é a primeira\n    da lista, pois é a que tem maior prioridade\n    \"\"\"\n    def seleccionar_accao(self, accoes):\n        if accoes:\n            accao_sel = accoes[0]",
+        "detail": "src.lib.ecr.hierarquia",
+        "documentation": {}
+    },
+    {
+        "label": "Prioridade",
+        "kind": 6,
+        "importPath": "src.lib.ecr.prioridade",
+        "description": "src.lib.ecr.prioridade",
+        "peekOfCode": "class Prioridade(ComportComp):\n    '''\n    metodo responsavel por selecionar a açao, com base numa lista de açoes\n    utiliza a funçao max, que retorna o valor maximo num conjunto de valores, mas \n    neste caso, com auxilio da funçao lambda, vai retornar a açao com maior prioridade\n    funçao lambda: funçao anonima inline, usada em situaçoes onde é necessario uma \n    pequena funçao para auxiliar uma funçao maior, útil para implementar codigo conciso\n    evitando a definiçao de uma funçao inteira\n    requer a utilizaçao da keyword 'lambda' e recebe um argumento (neste caso, uma açao) e\n    uma expressao para ser avaliada (neste caso, a prioridade da açao)",
+        "detail": "src.lib.ecr.prioridade",
+        "documentation": {}
+    },
+    {
+        "label": "Reaccao",
+        "kind": 6,
+        "importPath": "src.lib.ecr.reaccao",
+        "description": "src.lib.ecr.reaccao",
+        "peekOfCode": "class Reaccao(Comportamento):\n    def __init__(self, estimulo, resposta):\n        self.__estimulo = estimulo\n        self.__resposta = resposta\n    def activar(self, percepcao):\n        intensidade = self.__estimulo.detectar(percepcao)\n        if intensidade > 0:\n            return self.__resposta.activar(percepcao, intensidade)",
+        "detail": "src.lib.ecr.reaccao",
+        "documentation": {}
+    },
+    {
+        "label": "Resposta",
+        "kind": 6,
+        "importPath": "src.lib.ecr.resposta",
+        "description": "src.lib.ecr.resposta",
+        "peekOfCode": "class Resposta:\n    def __init__(self, accao):\n        self._accao = accao\n    def activar(self, percepcao, intensidade = 0):\n        if percepcao is not None:\n            self._accao.prioridade = intensidade\n            return self._accao",
+        "detail": "src.lib.ecr.resposta",
+        "documentation": {}
+    },
+    {
+        "label": "Estado",
+        "kind": 6,
+        "importPath": "src.lib.mod.estado",
+        "description": "src.lib.mod.estado",
+        "peekOfCode": "class Estado(ABC):\n    '''\n    Metodo abstrato que ira permitir definir a identidade do estado\n    baseado no seu conteúdo\n    '''\n    @abstractmethod\n    def id_valor(self):\n        \"\"\"\"\"\"\n    '''\n    Metodo responsavel por alterar a representação de uma instancia",
+        "detail": "src.lib.mod.estado",
+        "documentation": {}
+    },
+    {
+        "label": "Operador",
+        "kind": 6,
+        "importPath": "src.lib.mod.operador",
+        "description": "src.lib.mod.operador",
+        "peekOfCode": "class Operador(ABC):\n    '''\n    Metodo abstrato que será utilizado para aplicar um operador\n    a um estado, para transformar este num novo estado\n    '''\n    @abstractmethod\n    def aplicar(self, estado):\n        \"\"\"\"\"\"\n    '''\n    Metodo abstrato que será responsavel por obter o custo associado",
+        "detail": "src.lib.mod.operador",
+        "documentation": {}
+    },
+    {
+        "label": "Problema",
+        "kind": 6,
+        "importPath": "src.lib.mod.problema",
+        "description": "src.lib.mod.problema",
+        "peekOfCode": "class Problema(ABC):\n    def __init__(self, estado_inicial, operadores):\n        self.__estado_inicial = estado_inicial\n        self.__operadores = operadores\n    '''\n    Definiçao do atributo estado_inicial do problema como propriedade,\n    disponivel apenas para leitura\n    '''\n    @property\n    def estado_inicial(self):",
+        "detail": "src.lib.mod.problema",
+        "documentation": {}
+    },
+    {
+        "label": "ModeloPDM",
+        "kind": 6,
+        "importPath": "src.lib.pdm.modelo.modelo_pdm",
+        "description": "src.lib.pdm.modelo.modelo_pdm",
+        "peekOfCode": "class ModeloPDM(ABC):\n    @abstractmethod\n    def S(self):\n        \"\"\"\"\"\"\n    @abstractmethod\n    def A(self, s):\n        \"\"\"\"\"\"\n    @abstractmethod\n    def T(self, s, a, sn):\n        \"\"\"\"\"\"",
+        "detail": "src.lib.pdm.modelo.modelo_pdm",
+        "documentation": {}
+    },
+    {
+        "label": "MecUtil",
+        "kind": 6,
+        "importPath": "src.lib.pdm.mec_util",
+        "description": "src.lib.pdm.mec_util",
+        "peekOfCode": "class MecUtil:\n    def __init__(self, modelo, gama, delta_max):\n        self.__modelo = modelo\n        self.__delta_max = delta_max \n        self.__gama = gama\n    \"\"\"\n    Método responsável por associar a cada estado a utilidade da sua ação com maior utilidade.\n    Esta associação corresponde ao dicionário U, que é inicializado com utilidade zero para todos \n    os estados. Em seguida, num ciclo while com break, de modo a replicar um ciclo do-while, que não\n    existe na linguagem Python, é criada uma shallow copy de U, para guardar os valores de utilidade",
+        "detail": "src.lib.pdm.mec_util",
+        "documentation": {}
+    },
+    {
+        "label": "PDM",
+        "kind": 6,
+        "importPath": "src.lib.pdm.pdm",
+        "description": "src.lib.pdm.pdm",
+        "peekOfCode": "class PDM:\n    def __init__(self, modelo, gama, delta_max):\n        self.__modelo = modelo\n        self.__mec_util = MecUtil(self.__modelo, gama, delta_max)\n    \"\"\"\n    Método que determina a política. A política é um dicionário que associa um estado à sua ação com\n    maior utilidade.\n    \"\"\"\n    def politica(self, U):\n        S, A = self.__modelo.S, self.__modelo.A",
+        "detail": "src.lib.pdm.pdm",
+        "documentation": {}
+    },
+    {
+        "label": "FronteiraFIFO",
+        "kind": 6,
+        "importPath": "src.lib.pee.larg.fronteira_fifo",
+        "description": "src.lib.pee.larg.fronteira_fifo",
+        "peekOfCode": "class FronteiraFIFO(Fronteira):\n    def inserir(self, no):\n        self._nos.append(no)",
+        "detail": "src.lib.pee.larg.fronteira_fifo",
+        "documentation": {}
+    },
+    {
+        "label": "ProcuraLargura",
+        "kind": 6,
+        "importPath": "src.lib.pee.larg.procura_largura",
+        "description": "src.lib.pee.larg.procura_largura",
+        "peekOfCode": "class ProcuraLargura(ProcuraGrafo):\n    def __init__(self):\n        super().__init__(FronteiraFIFO())",
+        "detail": "src.lib.pee.larg.procura_largura",
+        "documentation": {}
+    },
+    {
+        "label": "Fronteira",
+        "kind": 6,
+        "importPath": "src.lib.pee.mec_proc.fronteira",
+        "description": "src.lib.pee.mec_proc.fronteira",
+        "peekOfCode": "class Fronteira(ABC):\n    '''\n    Construtor da classe responsavel por inicializar a fronteira\n    atraves do metodo iniciar\n    '''\n    def __init__(self):\n        self.iniciar()\n    '''\n    Propriedade da classe que indica se a lista de nós está vazia\n    ou nao",
+        "detail": "src.lib.pee.mec_proc.fronteira",
+        "documentation": {}
+    },
+    {
+        "label": "MecanismoProcura",
+        "kind": 6,
+        "importPath": "src.lib.pee.mec_proc.mecanismo_procura",
+        "description": "src.lib.pee.mec_proc.mecanismo_procura",
+        "peekOfCode": "class MecanismoProcura(ABC):\n    def __init__(self, fronteira):\n        self._fronteira = fronteira\n    def _iniciar_memoria(self):\n        self._fronteira.iniciar()\n    \"\"\"\n    Método responsavel por memorizar um nó na fronteira, o metodo é abstrato para que\n    seja definido por cada mecanismo de procura, consoante a forma indicada de memorização\n    de nós na sua fronteira\n    \"\"\"",
+        "detail": "src.lib.pee.mec_proc.mecanismo_procura",
+        "documentation": {}
+    },
+    {
+        "label": "No",
+        "kind": 6,
+        "importPath": "src.lib.pee.mec_proc.no",
+        "description": "src.lib.pee.mec_proc.no",
+        "peekOfCode": "class No:\n    \"\"\"\n    Construtor da classe, que permite o polimorfismo para o caso do nó inicial, \n    que não tem operador nem antecessor, e o seu custo é zero, então os valores\n    sao definidos por omissão\n    \"\"\"\n    def __init__(self, estado, operador=None, antecessor=None, custo=0):\n        self.__estado = estado\n        self.__operador = operador\n        self.__antecessor = antecessor",
+        "detail": "src.lib.pee.mec_proc.no",
+        "documentation": {}
+    },
+    {
+        "label": "PassoSolucao",
+        "kind": 6,
+        "importPath": "src.lib.pee.mec_proc.passo_solucao",
+        "description": "src.lib.pee.mec_proc.passo_solucao",
+        "peekOfCode": "class PassoSolucao:\n    estado: Estado\n    operador: Operador",
+        "detail": "src.lib.pee.mec_proc.passo_solucao",
+        "documentation": {}
+    },
+    {
+        "label": "ProcuraGrafo",
+        "kind": 6,
+        "importPath": "src.lib.pee.mec_proc.procura_grafo",
+        "description": "src.lib.pee.mec_proc.procura_grafo",
+        "peekOfCode": "class ProcuraGrafo(MecanismoProcura):\n    def _iniciar_memoria(self):\n        super()._iniciar_memoria()\n        self._explorados = {}\n    \"\"\"\n    Método responsável por memorizar um nó na fronteira de exploração e no dicionário de explorados.\n    Um nó só é memorizado caso seja para manter, ou seja, ainda não tenha sido explorado.\n    \"\"\"\n    def _memorizar(self, no):\n        estado = no.estado",
+        "detail": "src.lib.pee.mec_proc.procura_grafo",
+        "documentation": {}
+    },
+    {
+        "label": "Solucao",
+        "kind": 6,
+        "importPath": "src.lib.pee.mec_proc.solucao",
+        "description": "src.lib.pee.mec_proc.solucao",
+        "peekOfCode": "class Solucao:\n    def __init__(self, no_final):\n        self.__no_final = no_final\n        self.__passos = []\n        no = no_final\n        while no.antecessor:\n            passo = PassoSolucao(no.antecessor.estado, no.operador)\n            self.__passos.insert(0, passo)\n            no = no.antecessor\n    @property",
+        "detail": "src.lib.pee.mec_proc.solucao",
+        "documentation": {}
+    },
+    {
+        "label": "Avaliador",
+        "kind": 6,
+        "importPath": "src.lib.pee.melhor_prim.aval.avaliador",
+        "description": "src.lib.pee.melhor_prim.aval.avaliador",
+        "peekOfCode": "class Avaliador(ABC):\n    @abstractmethod\n    def prioridade(self, no):\n        \"\"\"\"\"\"",
+        "detail": "src.lib.pee.melhor_prim.aval.avaliador",
+        "documentation": {}
+    },
+    {
+        "label": "AvaliadorAA",
+        "kind": 6,
+        "importPath": "src.lib.pee.melhor_prim.aval.avaliador_aa",
+        "description": "src.lib.pee.melhor_prim.aval.avaliador_aa",
+        "peekOfCode": "class AvaliadorAA(AvaliadorHeur):\n    def prioridade(self, no):\n        return no.custo + self._heuristica.h(no.estado)",
+        "detail": "src.lib.pee.melhor_prim.aval.avaliador_aa",
+        "documentation": {}
+    },
+    {
+        "label": "AvaliadorCustoUnif",
+        "kind": 6,
+        "importPath": "src.lib.pee.melhor_prim.aval.avaliador_custo_unif",
+        "description": "src.lib.pee.melhor_prim.aval.avaliador_custo_unif",
+        "peekOfCode": "class AvaliadorCustoUnif(Avaliador):\n    def prioridade(self, no):\n        return no.custo",
+        "detail": "src.lib.pee.melhor_prim.aval.avaliador_custo_unif",
+        "documentation": {}
+    },
+    {
+        "label": "AvaliadorHeur",
+        "kind": 6,
+        "importPath": "src.lib.pee.melhor_prim.aval.avaliador_heur",
+        "description": "src.lib.pee.melhor_prim.aval.avaliador_heur",
+        "peekOfCode": "class AvaliadorHeur(Avaliador):\n    def definir_heuristica(self, heuristica):\n        self._heuristica = heuristica",
+        "detail": "src.lib.pee.melhor_prim.aval.avaliador_heur",
+        "documentation": {}
+    },
+    {
+        "label": "AvaliadorSof",
+        "kind": 6,
+        "importPath": "src.lib.pee.melhor_prim.aval.avaliador_sof",
+        "description": "src.lib.pee.melhor_prim.aval.avaliador_sof",
+        "peekOfCode": "class AvaliadorSof(AvaliadorHeur):\n    def prioridade(self, no):\n        return self._heuristica.h(no.estado)",
+        "detail": "src.lib.pee.melhor_prim.aval.avaliador_sof",
+        "documentation": {}
+    },
+    {
+        "label": "FronteiraPrioridade",
+        "kind": 6,
+        "importPath": "src.lib.pee.melhor_prim.fronteira_prioridade",
+        "description": "src.lib.pee.melhor_prim.fronteira_prioridade",
+        "peekOfCode": "class FronteiraPrioridade(Fronteira):\n    def __init__(self, avaliador):\n        super().__init__()\n        self.__avaliador = avaliador\n    def inserir(self, no):\n        prioridade = self.__avaliador.prioridade(no)\n        heappush(self._nos, (prioridade, no))\n    def remover(self):\n        _, no = heappop(self._nos)\n        return no",
+        "detail": "src.lib.pee.melhor_prim.fronteira_prioridade",
+        "documentation": {}
+    },
+    {
+        "label": "Heuristica",
+        "kind": 6,
+        "importPath": "src.lib.pee.melhor_prim.heuristica",
+        "description": "src.lib.pee.melhor_prim.heuristica",
+        "peekOfCode": "class Heuristica(ABC):\n    @abstractmethod\n    def h(self, estado):\n        \"\"\"\"\"\"",
+        "detail": "src.lib.pee.melhor_prim.heuristica",
+        "documentation": {}
+    },
+    {
+        "label": "ProcuraAA",
+        "kind": 6,
+        "importPath": "src.lib.pee.melhor_prim.procura_aa",
+        "description": "src.lib.pee.melhor_prim.procura_aa",
+        "peekOfCode": "class ProcuraAA(ProcuraInformada):\n    def __init__(self):\n        super().__init__(AvaliadorAA())",
+        "detail": "src.lib.pee.melhor_prim.procura_aa",
+        "documentation": {}
+    },
+    {
+        "label": "ProcuraCustoUnif",
+        "kind": 6,
+        "importPath": "src.lib.pee.melhor_prim.procura_custo_unif",
+        "description": "src.lib.pee.melhor_prim.procura_custo_unif",
+        "peekOfCode": "class ProcuraCustoUnif(ProcuraMelhorPrim):\n    def __init__(self):\n        super().__init__(AvaliadorCustoUnif())",
+        "detail": "src.lib.pee.melhor_prim.procura_custo_unif",
+        "documentation": {}
+    },
+    {
+        "label": "ProcuraInformada",
+        "kind": 6,
+        "importPath": "src.lib.pee.melhor_prim.procura_informada",
+        "description": "src.lib.pee.melhor_prim.procura_informada",
+        "peekOfCode": "class ProcuraInformada(ProcuraMelhorPrim):\n    def procurar(self, problema, heuristica):\n        self._avaliador.definir_heuristica(heuristica)\n        return super().procurar(problema)",
+        "detail": "src.lib.pee.melhor_prim.procura_informada",
+        "documentation": {}
+    },
+    {
+        "label": "ProcuraMelhorPrim",
+        "kind": 6,
+        "importPath": "src.lib.pee.melhor_prim.procura_melhor_prim",
+        "description": "src.lib.pee.melhor_prim.procura_melhor_prim",
+        "peekOfCode": "class ProcuraMelhorPrim(ProcuraGrafo):\n    def __init__(self, avaliador):\n        super().__init__(FronteiraPrioridade(avaliador))\n        self._avaliador = avaliador\n    \"\"\"\n    Override do método _manter da super classe pois, neste caso, um nó pode ser mantido caso\n    ainda não esteja no dicionário de explorados mas também se o seu custo for inferior ao \n    custo de um nó com o mesmo estado.\n    \"\"\"\n    def _manter(self, no):",
+        "detail": "src.lib.pee.melhor_prim.procura_melhor_prim",
+        "documentation": {}
+    },
+    {
+        "label": "ProcuraSofrega",
+        "kind": 6,
+        "importPath": "src.lib.pee.melhor_prim.procura_sofrega",
+        "description": "src.lib.pee.melhor_prim.procura_sofrega",
+        "peekOfCode": "class ProcuraSofrega(ProcuraInformada):\n    def __init__(self):\n        super().__init__(AvaliadorSof())",
+        "detail": "src.lib.pee.melhor_prim.procura_sofrega",
+        "documentation": {}
+    },
+    {
+        "label": "FronteiraLIFO",
+        "kind": 6,
+        "importPath": "src.lib.pee.prof.fronteira_lifo",
+        "description": "src.lib.pee.prof.fronteira_lifo",
+        "peekOfCode": "class FronteiraLIFO(Fronteira):\n    def inserir(self, no):\n        self._nos.insert(0, no)",
+        "detail": "src.lib.pee.prof.fronteira_lifo",
+        "documentation": {}
+    },
+    {
+        "label": "ProcuraProfundidade",
+        "kind": 6,
+        "importPath": "src.lib.pee.prof.procura_profundidade",
+        "description": "src.lib.pee.prof.procura_profundidade",
+        "peekOfCode": "class ProcuraProfundidade(MecanismoProcura):\n    def __init__(self):\n        super().__init__(FronteiraLIFO())\n    def _memorizar(self, no):\n        self._fronteira.inserir(no)",
+        "detail": "src.lib.pee.prof.procura_profundidade",
+        "documentation": {}
+    },
+    {
+        "label": "ProcuraProfIter",
+        "kind": 6,
+        "importPath": "src.lib.pee.prof.procura_prof_iter",
+        "description": "src.lib.pee.prof.procura_prof_iter",
+        "peekOfCode": "class ProcuraProfIter(ProcuraProfLim):\n    def procurar(self, problema, inc_prof=1, limite_prof=100):\n        for profundidade in range(0, limite_prof + 1, inc_prof):\n            self.prof_max = profundidade\n            solucao = super().procurar(problema)\n            if solucao:\n                return solucao",
+        "detail": "src.lib.pee.prof.procura_prof_iter",
+        "documentation": {}
+    },
+    {
+        "label": "ProcuraProfLim",
+        "kind": 6,
+        "importPath": "src.lib.pee.prof.procura_prof_lim",
+        "description": "src.lib.pee.prof.procura_prof_lim",
+        "peekOfCode": "class ProcuraProfLim(ProcuraProfundidade):\n    def __init__(self, prof_max):\n        self.__prof_max = prof_max\n        super().__init__()\n    @property\n    def prof_max(self):\n        return self.__prof_max\n    @prof_max.setter\n    def prof_max(self, valor):\n        self.__prof_max = valor",
+        "detail": "src.lib.pee.prof.procura_prof_lim",
+        "documentation": {}
+    },
+    {
+        "label": "ModeloPlan",
+        "kind": 6,
+        "importPath": "src.lib.plan.modelo.modelo_plan",
+        "description": "src.lib.plan.modelo.modelo_plan",
+        "peekOfCode": "class ModeloPlan(ABC):\n    @abstractmethod\n    def obter_estado(self):\n        \"\"\"\"\"\"\n    @abstractmethod\n    def obter_estados(self):\n        \"\"\"\"\"\"\n    @abstractmethod\n    def obter_operadores(self):\n        \"\"\"\"\"\"",
+        "detail": "src.lib.plan.modelo.modelo_plan",
+        "documentation": {}
+    },
+    {
+        "label": "ModeloPDMPlan",
+        "kind": 6,
+        "importPath": "src.lib.plan.plan_pdm.modelo.modelo_pdm_plan",
+        "description": "src.lib.plan.plan_pdm.modelo.modelo_pdm_plan",
+        "peekOfCode": "class ModeloPDMPlan(ModeloPlan, ModeloPDM):\n    \"\"\"\n    Na nossa implementação, o espaço de estados é determinista, isto é, para cada estado, se tiver\n    uma ação associada, a transição para o novo estado tem probabilidade 1, é certa.\n    Adicionalmente, no atributo self.__transicoes, são pré-calculadas todas as transições possíveis,\n    de maneira a tornar a implementação mais eficiente, evitando a necessidade de calcular transições\n    sempre que se quer descobrir estados sucessores.\n    \"\"\"\n    def __init__(self, modelo_plan, objectivos, rmax = 1000.0):\n        self.__modelo_plan = modelo_plan",
+        "detail": "src.lib.plan.plan_pdm.modelo.modelo_pdm_plan",
+        "documentation": {}
+    },
+    {
+        "label": "PlaneadorPDM",
+        "kind": 6,
+        "importPath": "src.lib.plan.plan_pdm.planeador_pdm",
+        "description": "src.lib.plan.plan_pdm.planeador_pdm",
+        "peekOfCode": "class PlaneadorPDM(Planeador):\n    def __init__(self, gama = 0.85, delta_max = 1.0):\n        self.__gama = gama\n        self.__delta_max = delta_max\n    \"\"\"\n    Método responsável por realizar o planeamento. Caso haja objetivos, é necessário definir o modelo\n    do mundo e resolver os processos de decisão de Markov, de modo a obter a utilidade e a política.\n    \"\"\"\n    def planear(self, modelo_plan, objectivos):\n        if objectivos:",
+        "detail": "src.lib.plan.plan_pdm.planeador_pdm",
+        "documentation": {}
+    },
+    {
+        "label": "PlanoPDM",
+        "kind": 6,
+        "importPath": "src.lib.plan.plan_pdm.plano_pdm",
+        "description": "src.lib.plan.plan_pdm.plano_pdm",
+        "peekOfCode": "class PlanoPDM(Plano):\n    def __init__(self, utilidade, politica):\n        self.__utilidade = utilidade\n        self.__politica = politica\n    def obter_accao(self, estado):\n        if self.__politica:\n            return self.__politica.get(estado)\n    def mostrar(self, vista):\n        if self.__politica:\n            for estado, valor in self.__utilidade.items():",
+        "detail": "src.lib.plan.plan_pdm.plano_pdm",
+        "documentation": {}
+    },
+    {
+        "label": "HeurDist",
+        "kind": 6,
+        "importPath": "src.lib.plan.plan_pee.mod_prob.heur_dist",
+        "description": "src.lib.plan.plan_pee.mod_prob.heur_dist",
+        "peekOfCode": "class HeurDist(Heuristica):\n    def __init__(self, estado_final):\n        self.__estado_final = estado_final\n    def h(self, estado):\n        return dist(estado.posicao, self.__estado_final.posicao)",
+        "detail": "src.lib.plan.plan_pee.mod_prob.heur_dist",
+        "documentation": {}
+    },
+    {
+        "label": "ProblemaPlan",
+        "kind": 6,
+        "importPath": "src.lib.plan.plan_pee.mod_prob.problema_plan",
+        "description": "src.lib.plan.plan_pee.mod_prob.problema_plan",
+        "peekOfCode": "class ProblemaPlan(Problema):\n    \"\"\"\n    Classe ProblemaPlan é uma especialização da classe Problema no contexto de um problema de \n    planeamento. Esta recebe como parâmetros o modelo e o estado final e invoca o construtor da \n    super classe, fornecendo o estado atual do modelo como estado inicial e os seus operadores. \n    \"\"\"\n    def __init__(self, modelo_plan, estado_final):\n        super().__init__(modelo_plan.obter_estado(), modelo_plan.obter_operadores())\n        self.__estado_final = estado_final\n    \"\"\"",
+        "detail": "src.lib.plan.plan_pee.mod_prob.problema_plan",
+        "documentation": {}
+    },
+    {
+        "label": "PlaneadorPEE",
+        "kind": 6,
+        "importPath": "src.lib.plan.plan_pee.planeador_pee",
+        "description": "src.lib.plan.plan_pee.planeador_pee",
+        "peekOfCode": "class PlaneadorPEE(Planeador):\n    def __init__(self):\n        self.__mec_pee = ProcuraAA()\n    \"\"\"\n    Método que realiza o planeamento. Caso haja objetivos, define o estado final como um dos objetivos,\n    neste caso, o primeiro da lista, define o problema, problema de planeamento, define a heurística,\n    pois o mecanismo de procura é a Procura A* e procura uma solução. Se existir, retorna o plano de \n    ação referente à solução.\n    \"\"\"\n    def planear(self, modelo_plan, objectivos):",
+        "detail": "src.lib.plan.plan_pee.planeador_pee",
+        "documentation": {}
+    },
+    {
+        "label": "PlanoPEE",
+        "kind": 6,
+        "importPath": "src.lib.plan.plan_pee.plano_pee",
+        "description": "src.lib.plan.plan_pee.plano_pee",
+        "peekOfCode": "class PlanoPEE(Plano):\n    def __init__(self, solucao):\n        self.__solucao = solucao\n        self.__passos = [passo for passo in self.__solucao]\n    def obter_accao(self, estado):\n        if self.__passos:\n            passo = self.__passos.pop(0)\n            if passo.estado == estado:\n                return passo.operador\n    def mostrar(self, vista):",
+        "detail": "src.lib.plan.plan_pee.plano_pee",
+        "documentation": {}
+    },
+    {
+        "label": "Planeador",
+        "kind": 6,
+        "importPath": "src.lib.plan.planeador",
+        "description": "src.lib.plan.planeador",
+        "peekOfCode": "class Planeador(ABC):\n    @abstractmethod\n    def planear(self, modelo_plan, objectivos):\n        \"\"\"\"\"\"",
+        "detail": "src.lib.plan.planeador",
+        "documentation": {}
+    },
+    {
+        "label": "Plano",
+        "kind": 6,
+        "importPath": "src.lib.plan.plano",
+        "description": "src.lib.plan.plano",
+        "peekOfCode": "class Plano(ABC):\n    @abstractmethod\n    def obter_accao(self, estado):\n        \"\"\"\"\"\"\n    @abstractmethod\n    def mostrar(self, vista):\n        \"\"\"\"\"\"",
+        "detail": "src.lib.plan.plano",
+        "documentation": {}
+    },
+    {
+        "label": "Accao",
+        "kind": 6,
+        "importPath": "src.lib.sae.agente.accao",
+        "description": "src.lib.sae.agente.accao",
+        "peekOfCode": "class Accao:\n    \"\"\"Representação de acção\"\"\"\n    direccao: Direccao\n    \"\"\"Direcção de movimento\"\"\"\n    passo: int = 1\n    \"\"\"Distância de movimento\"\"\"\n    prioridade: int = 0\n    \"\"\"Prioridade da acção\"\"\"\n    @property\n    def ang(self):",
+        "detail": "src.lib.sae.agente.accao",
+        "documentation": {}
+    },
+    {
+        "label": "Agente",
+        "kind": 6,
+        "importPath": "src.lib.sae.agente.agente",
+        "description": "src.lib.sae.agente.agente",
+        "peekOfCode": "class Agente:\n    \"\"\"\n    Agente base para simulação\n    \"\"\"\n    def __init__(self, controlo):\n        self._controlo = controlo\n        self.__transdutor = Transdutor()\n    @property\n    def controlo(self):\n        return self._controlo",
+        "detail": "src.lib.sae.agente.agente",
+        "documentation": {}
+    },
+    {
+        "label": "Controlo",
+        "kind": 6,
+        "importPath": "src.lib.sae.agente.controlo",
+        "description": "src.lib.sae.agente.controlo",
+        "peekOfCode": "class Controlo(ABC):\n    \"\"\"\n    Controlo de agente\n    \"\"\"\n    __vista = None\n    \"\"\"Vista associada\"\"\"\n    __mostrar_per_dir = False\n    \"\"\"Mostrar percepção direccional True/False\"\"\"\n    @property\n    def vista(self):",
+        "detail": "src.lib.sae.agente.controlo",
+        "documentation": {}
+    },
+    {
+        "label": "Percepcao",
+        "kind": 6,
+        "importPath": "src.lib.sae.agente.percepcao",
+        "description": "src.lib.sae.agente.percepcao",
+        "peekOfCode": "class Percepcao:\n    \"\"\"Registo de informação sensorial\"\"\"\n    per_dir: dict[Direccao, PerDir]\n    \"\"\"Percepção direccional, direcção: (elemento, distância, posição)\"\"\"\n    posicao: Posicao\n    \"\"\"Posição do agente\"\"\"\n    direccao: Direccao\n    \"\"\"Direcção do agente\"\"\"\n    posicoes: list[Posicao]\n    \"\"\"Posições do ambiente\"\"\"",
+        "detail": "src.lib.sae.agente.percepcao",
+        "documentation": {}
+    },
+    {
+        "label": "PerDir",
+        "kind": 5,
+        "importPath": "src.lib.sae.agente.per_dir",
+        "description": "src.lib.sae.agente.per_dir",
+        "peekOfCode": "PerDir = tuple[Elemento, int, Posicao]\n\"\"\"Percepção direccional\"\"\"",
+        "detail": "src.lib.sae.agente.per_dir",
+        "documentation": {}
+    },
+    {
+        "label": "Transdutor",
+        "kind": 6,
+        "importPath": "src.lib.sae.agente.transdutor",
+        "description": "src.lib.sae.agente.transdutor",
+        "peekOfCode": "class Transdutor:\n    \"\"\"\n    Transdutor de percepção e actuação\n    \"\"\"\n    def iniciar(self, ambiente):\n        self.__ambiente = ambiente\n    def percepcionar(self):\n        \"\"\"\n        Percepcionar ambiente\n        @return: percepção",
+        "detail": "src.lib.sae.agente.transdutor",
+        "documentation": {}
+    },
+    {
+        "label": "Ambiente",
+        "kind": 6,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "class Ambiente:\n\t\"\"\"\n\tSimulação do ambiente\n\t\"\"\"\t\n\tdef __init__(self, def_amb):\n\t\t\"\"\"\n\t\tCriar ambiente\n\t\t@param def_amb: definição do ambiente\n\t\t\"\"\"\n\t\tself.__def_amb = def_amb",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.__def_amb",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\tself.__def_amb = def_amb\n\t\tself._elementos = None\n\t\tself._posicao_agente = None\n\t\tself._direccao_agente = None\n\t\tself._dim_x = None\n\t\tself._dim_y = None\n\t\tself._dist_max = None\n\t\tself._colisao = False\n\t\tself._recolha = False\n\t\tself._per_dir = None",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself._elementos",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\tself._elementos = None\n\t\tself._posicao_agente = None\n\t\tself._direccao_agente = None\n\t\tself._dim_x = None\n\t\tself._dim_y = None\n\t\tself._dist_max = None\n\t\tself._colisao = False\n\t\tself._recolha = False\n\t\tself._per_dir = None\n\t\tself.iniciar()",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself._posicao_agente",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\tself._posicao_agente = None\n\t\tself._direccao_agente = None\n\t\tself._dim_x = None\n\t\tself._dim_y = None\n\t\tself._dist_max = None\n\t\tself._colisao = False\n\t\tself._recolha = False\n\t\tself._per_dir = None\n\t\tself.iniciar()\n\t@property",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself._direccao_agente",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\tself._direccao_agente = None\n\t\tself._dim_x = None\n\t\tself._dim_y = None\n\t\tself._dist_max = None\n\t\tself._colisao = False\n\t\tself._recolha = False\n\t\tself._per_dir = None\n\t\tself.iniciar()\n\t@property\n\tdef elementos(self):",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself._dim_x",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\tself._dim_x = None\n\t\tself._dim_y = None\n\t\tself._dist_max = None\n\t\tself._colisao = False\n\t\tself._recolha = False\n\t\tself._per_dir = None\n\t\tself.iniciar()\n\t@property\n\tdef elementos(self):\n\t\t\"\"\"",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself._dim_y",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\tself._dim_y = None\n\t\tself._dist_max = None\n\t\tself._colisao = False\n\t\tself._recolha = False\n\t\tself._per_dir = None\n\t\tself.iniciar()\n\t@property\n\tdef elementos(self):\n\t\t\"\"\"\n\t\tObter dicionário <pos, elem> com todos os ",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself._dist_max",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\tself._dist_max = None\n\t\tself._colisao = False\n\t\tself._recolha = False\n\t\tself._per_dir = None\n\t\tself.iniciar()\n\t@property\n\tdef elementos(self):\n\t\t\"\"\"\n\t\tObter dicionário <pos, elem> com todos os \n\t\telementos do ambiente",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself._colisao",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\tself._colisao = False\n\t\tself._recolha = False\n\t\tself._per_dir = None\n\t\tself.iniciar()\n\t@property\n\tdef elementos(self):\n\t\t\"\"\"\n\t\tObter dicionário <pos, elem> com todos os \n\t\telementos do ambiente\n\t\t\"\"\"",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself._recolha",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\tself._recolha = False\n\t\tself._per_dir = None\n\t\tself.iniciar()\n\t@property\n\tdef elementos(self):\n\t\t\"\"\"\n\t\tObter dicionário <pos, elem> com todos os \n\t\telementos do ambiente\n\t\t\"\"\"\n\t\treturn self._elementos",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself._per_dir",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\tself._per_dir = None\n\t\tself.iniciar()\n\t@property\n\tdef elementos(self):\n\t\t\"\"\"\n\t\tObter dicionário <pos, elem> com todos os \n\t\telementos do ambiente\n\t\t\"\"\"\n\t\treturn self._elementos\n\t@property",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself._elementos",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\tself._elementos = {}\n\t\ty = 0\n\t\tfor linha in self.__def_amb:\n\t\t\tx = 0\n\t\t\tfor codigo_elem in linha:\n\t\t\t\telem = Elemento(codigo_elem)\n\t\t\t\tposicao = (x, y)\n\t\t\t\tself._elementos[posicao] = elem\n\t\t\t\tif elem == Elemento.AGENTE:\n\t\t\t\t\tself._posicao_agente = posicao",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\ty",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\ty = 0\n\t\tfor linha in self.__def_amb:\n\t\t\tx = 0\n\t\t\tfor codigo_elem in linha:\n\t\t\t\telem = Elemento(codigo_elem)\n\t\t\t\tposicao = (x, y)\n\t\t\t\tself._elementos[posicao] = elem\n\t\t\t\tif elem == Elemento.AGENTE:\n\t\t\t\t\tself._posicao_agente = posicao\n\t\t\t\t\tself._direccao_agente = Direccao.ESTE",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tx",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\t\tx = 0\n\t\t\tfor codigo_elem in linha:\n\t\t\t\telem = Elemento(codigo_elem)\n\t\t\t\tposicao = (x, y)\n\t\t\t\tself._elementos[posicao] = elem\n\t\t\t\tif elem == Elemento.AGENTE:\n\t\t\t\t\tself._posicao_agente = posicao\n\t\t\t\t\tself._direccao_agente = Direccao.ESTE\n\t\t\t\t\tself._colisao = False\n\t\t\t\tx += 1",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\telem",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\t\t\telem = Elemento(codigo_elem)\n\t\t\t\tposicao = (x, y)\n\t\t\t\tself._elementos[posicao] = elem\n\t\t\t\tif elem == Elemento.AGENTE:\n\t\t\t\t\tself._posicao_agente = posicao\n\t\t\t\t\tself._direccao_agente = Direccao.ESTE\n\t\t\t\t\tself._colisao = False\n\t\t\t\tx += 1\n\t\t\ty += 1\n\t\t# Definir dimensões do ambiente",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tposicao",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\t\t\tposicao = (x, y)\n\t\t\t\tself._elementos[posicao] = elem\n\t\t\t\tif elem == Elemento.AGENTE:\n\t\t\t\t\tself._posicao_agente = posicao\n\t\t\t\t\tself._direccao_agente = Direccao.ESTE\n\t\t\t\t\tself._colisao = False\n\t\t\t\tx += 1\n\t\t\ty += 1\n\t\t# Definir dimensões do ambiente\n\t\tself._dim_x = len(self.__def_amb[0])",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tself._elementos[posicao]",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\t\t\tself._elementos[posicao] = elem\n\t\t\t\tif elem == Elemento.AGENTE:\n\t\t\t\t\tself._posicao_agente = posicao\n\t\t\t\t\tself._direccao_agente = Direccao.ESTE\n\t\t\t\t\tself._colisao = False\n\t\t\t\tx += 1\n\t\t\ty += 1\n\t\t# Definir dimensões do ambiente\n\t\tself._dim_x = len(self.__def_amb[0])\n\t\tself._dim_y = y",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\t\tself._posicao_agente",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\t\t\t\tself._posicao_agente = posicao\n\t\t\t\t\tself._direccao_agente = Direccao.ESTE\n\t\t\t\t\tself._colisao = False\n\t\t\t\tx += 1\n\t\t\ty += 1\n\t\t# Definir dimensões do ambiente\n\t\tself._dim_x = len(self.__def_amb[0])\n\t\tself._dim_y = y\n\t\tself._dist_max = max(self._dim_x, self._dim_y)\n\t\t# Actualizar percepção direccional",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\t\tself._direccao_agente",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\t\t\t\tself._direccao_agente = Direccao.ESTE\n\t\t\t\t\tself._colisao = False\n\t\t\t\tx += 1\n\t\t\ty += 1\n\t\t# Definir dimensões do ambiente\n\t\tself._dim_x = len(self.__def_amb[0])\n\t\tself._dim_y = y\n\t\tself._dist_max = max(self._dim_x, self._dim_y)\n\t\t# Actualizar percepção direccional\n\t\tself.detectar_dir()",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\t\tself._colisao",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\t\t\t\tself._colisao = False\n\t\t\t\tx += 1\n\t\t\ty += 1\n\t\t# Definir dimensões do ambiente\n\t\tself._dim_x = len(self.__def_amb[0])\n\t\tself._dim_y = y\n\t\tself._dist_max = max(self._dim_x, self._dim_y)\n\t\t# Actualizar percepção direccional\n\t\tself.detectar_dir()\n\tdef posicoes(self, tipo=None):",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself._dim_x",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\tself._dim_x = len(self.__def_amb[0])\n\t\tself._dim_y = y\n\t\tself._dist_max = max(self._dim_x, self._dim_y)\n\t\t# Actualizar percepção direccional\n\t\tself.detectar_dir()\n\tdef posicoes(self, tipo=None):\n\t\t\"\"\"\n\t\tObter posições dos elementos do ambiente\n\t\t@param tipo: tipo dos elementos a obter posição\n\t\t\"\"\"",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself._dim_y",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\tself._dim_y = y\n\t\tself._dist_max = max(self._dim_x, self._dim_y)\n\t\t# Actualizar percepção direccional\n\t\tself.detectar_dir()\n\tdef posicoes(self, tipo=None):\n\t\t\"\"\"\n\t\tObter posições dos elementos do ambiente\n\t\t@param tipo: tipo dos elementos a obter posição\n\t\t\"\"\"\n\t\treturn [elem.posicao",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself._dist_max",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\tself._dist_max = max(self._dim_x, self._dim_y)\n\t\t# Actualizar percepção direccional\n\t\tself.detectar_dir()\n\tdef posicoes(self, tipo=None):\n\t\t\"\"\"\n\t\tObter posições dos elementos do ambiente\n\t\t@param tipo: tipo dos elementos a obter posição\n\t\t\"\"\"\n\t\treturn [elem.posicao\n\t\t\t\tfor elem in self._elementos",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself._direccao_agente",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\tself._direccao_agente = direccao\n\t\tnova_posicao = self.mover(self._posicao_agente, direccao)\n\t\tself._colisao = self.verificar_colisao(nova_posicao)\n\t\tif not self._colisao:\n\t\t\tself._recolha = self.verificar_recolha(nova_posicao)\n\t\t\tself._elementos[self._posicao_agente] = Elemento.VAZIO\n\t\t\tself._elementos[nova_posicao] = Elemento.AGENTE\n\t\t\tself._posicao_agente = nova_posicao\n\t\telse:\n\t\t\tself._recolha = False",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tnova_posicao",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\tnova_posicao = self.mover(self._posicao_agente, direccao)\n\t\tself._colisao = self.verificar_colisao(nova_posicao)\n\t\tif not self._colisao:\n\t\t\tself._recolha = self.verificar_recolha(nova_posicao)\n\t\t\tself._elementos[self._posicao_agente] = Elemento.VAZIO\n\t\t\tself._elementos[nova_posicao] = Elemento.AGENTE\n\t\t\tself._posicao_agente = nova_posicao\n\t\telse:\n\t\t\tself._recolha = False\n\t\t# Actualizar percepção direccional",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself._colisao",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\tself._colisao = self.verificar_colisao(nova_posicao)\n\t\tif not self._colisao:\n\t\t\tself._recolha = self.verificar_recolha(nova_posicao)\n\t\t\tself._elementos[self._posicao_agente] = Elemento.VAZIO\n\t\t\tself._elementos[nova_posicao] = Elemento.AGENTE\n\t\t\tself._posicao_agente = nova_posicao\n\t\telse:\n\t\t\tself._recolha = False\n\t\t# Actualizar percepção direccional\n\t\tself.detectar_dir()",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tself._recolha",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\t\tself._recolha = self.verificar_recolha(nova_posicao)\n\t\t\tself._elementos[self._posicao_agente] = Elemento.VAZIO\n\t\t\tself._elementos[nova_posicao] = Elemento.AGENTE\n\t\t\tself._posicao_agente = nova_posicao\n\t\telse:\n\t\t\tself._recolha = False\n\t\t# Actualizar percepção direccional\n\t\tself.detectar_dir()\n\tdef mover(self, posicao, direccao):\n\t\t\"\"\"",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tself._elementos[self._posicao_agente]",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\t\tself._elementos[self._posicao_agente] = Elemento.VAZIO\n\t\t\tself._elementos[nova_posicao] = Elemento.AGENTE\n\t\t\tself._posicao_agente = nova_posicao\n\t\telse:\n\t\t\tself._recolha = False\n\t\t# Actualizar percepção direccional\n\t\tself.detectar_dir()\n\tdef mover(self, posicao, direccao):\n\t\t\"\"\"\n\t\tMover a partir de uma posição numa direcção\t\t",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tself._elementos[nova_posicao]",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\t\tself._elementos[nova_posicao] = Elemento.AGENTE\n\t\t\tself._posicao_agente = nova_posicao\n\t\telse:\n\t\t\tself._recolha = False\n\t\t# Actualizar percepção direccional\n\t\tself.detectar_dir()\n\tdef mover(self, posicao, direccao):\n\t\t\"\"\"\n\t\tMover a partir de uma posição numa direcção\t\t\n\t\t@param posicao: posição inicial",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tself._posicao_agente",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\t\tself._posicao_agente = nova_posicao\n\t\telse:\n\t\t\tself._recolha = False\n\t\t# Actualizar percepção direccional\n\t\tself.detectar_dir()\n\tdef mover(self, posicao, direccao):\n\t\t\"\"\"\n\t\tMover a partir de uma posição numa direcção\t\t\n\t\t@param posicao: posição inicial\n\t\t@param direccao: direccão do movimento",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tself._recolha",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\t\tself._recolha = False\n\t\t# Actualizar percepção direccional\n\t\tself.detectar_dir()\n\tdef mover(self, posicao, direccao):\n\t\t\"\"\"\n\t\tMover a partir de uma posição numa direcção\t\t\n\t\t@param posicao: posição inicial\n\t\t@param direccao: direccão do movimento\n\t\t@return: nova posição\n\t\t\"\"\"",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tdx",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\tdx = math.cos(direccao.value)\n\t\tdy = -math.sin(direccao.value)\n\t\treturn x + round(dx), y + round(dy)\n\tdef verificar_colisao(self, posicao):\n\t\t\"\"\"\n\t\tVerificar colisão com obstáculo\n\t\t@param posicao: posição a testar\n\t\t\"\"\"\n\t\treturn self.elemento(posicao) == Elemento.OBSTACULO\n\tdef verificar_recolha(self, posicao):",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tdy",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\tdy = -math.sin(direccao.value)\n\t\treturn x + round(dx), y + round(dy)\n\tdef verificar_colisao(self, posicao):\n\t\t\"\"\"\n\t\tVerificar colisão com obstáculo\n\t\t@param posicao: posição a testar\n\t\t\"\"\"\n\t\treturn self.elemento(posicao) == Elemento.OBSTACULO\n\tdef verificar_recolha(self, posicao):\n\t\t\"\"\"",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tposicao",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\tposicao = self._posicao_agente\n\t\tdistancia = 0\n\t\twhile distancia <= self._dist_max:\n\t\t\tnova_posicao = self.mover(posicao, direccao)\t\t\t \n\t\t\tdistancia += round(math.dist(posicao, nova_posicao))\n\t\t\tposicao = nova_posicao\n\t\t\telemento = self.elemento(posicao)\n\t\t\tif elemento and elemento != Elemento.VAZIO:\n\t\t\t\treturn elemento, distancia, posicao\n\tdef detectar_dir(self):",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tdistancia",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\tdistancia = 0\n\t\twhile distancia <= self._dist_max:\n\t\t\tnova_posicao = self.mover(posicao, direccao)\t\t\t \n\t\t\tdistancia += round(math.dist(posicao, nova_posicao))\n\t\t\tposicao = nova_posicao\n\t\t\telemento = self.elemento(posicao)\n\t\t\tif elemento and elemento != Elemento.VAZIO:\n\t\t\t\treturn elemento, distancia, posicao\n\tdef detectar_dir(self):\n\t\t\"\"\"",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tnova_posicao",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\t\tnova_posicao = self.mover(posicao, direccao)\t\t\t \n\t\t\tdistancia += round(math.dist(posicao, nova_posicao))\n\t\t\tposicao = nova_posicao\n\t\t\telemento = self.elemento(posicao)\n\t\t\tif elemento and elemento != Elemento.VAZIO:\n\t\t\t\treturn elemento, distancia, posicao\n\tdef detectar_dir(self):\n\t\t\"\"\"\n\t\tDetectar elementos nas várias direcções\n\t\ta partir da posição do agente",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tposicao",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\t\tposicao = nova_posicao\n\t\t\telemento = self.elemento(posicao)\n\t\t\tif elemento and elemento != Elemento.VAZIO:\n\t\t\t\treturn elemento, distancia, posicao\n\tdef detectar_dir(self):\n\t\t\"\"\"\n\t\tDetectar elementos nas várias direcções\n\t\ta partir da posição do agente\n\t\t@return: associações direcção: (elemento, distância)\n\t\t\t     para as várias direcções",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\telemento",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\t\telemento = self.elemento(posicao)\n\t\t\tif elemento and elemento != Elemento.VAZIO:\n\t\t\t\treturn elemento, distancia, posicao\n\tdef detectar_dir(self):\n\t\t\"\"\"\n\t\tDetectar elementos nas várias direcções\n\t\ta partir da posição do agente\n\t\t@return: associações direcção: (elemento, distância)\n\t\t\t     para as várias direcções\n\t\t\"\"\"",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself._per_dir",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.ambiente",
+        "description": "src.lib.sae.ambiente.ambiente",
+        "peekOfCode": "\t\tself._per_dir = {\n\t\t\tdireccao: self.detectar(direccao)\n\t\t\tfor direccao in Direccao\n\t\t}\n\t\treturn self._per_dir",
+        "detail": "src.lib.sae.ambiente.ambiente",
+        "documentation": {}
+    },
+    {
+        "label": "Direccao",
+        "kind": 6,
+        "importPath": "src.lib.sae.ambiente.direccao",
+        "description": "src.lib.sae.ambiente.direccao",
+        "peekOfCode": "class Direccao(Enum):\n\t\"\"\"\n\tDirecção de movimento\n\t\"\"\"\n\tNORTE = math.pi / 2\n\tSUL   = -math.pi / 2\n\tESTE  = 0\n\tOESTE = math.pi",
+        "detail": "src.lib.sae.ambiente.direccao",
+        "documentation": {}
+    },
+    {
+        "label": "\tNORTE",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.direccao",
+        "description": "src.lib.sae.ambiente.direccao",
+        "peekOfCode": "\tNORTE = math.pi / 2\n\tSUL   = -math.pi / 2\n\tESTE  = 0\n\tOESTE = math.pi",
+        "detail": "src.lib.sae.ambiente.direccao",
+        "documentation": {}
+    },
+    {
+        "label": "\tOESTE",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.direccao",
+        "description": "src.lib.sae.ambiente.direccao",
+        "peekOfCode": "\tOESTE = math.pi",
+        "detail": "src.lib.sae.ambiente.direccao",
+        "documentation": {}
+    },
+    {
+        "label": "Elemento",
+        "kind": 6,
+        "importPath": "src.lib.sae.ambiente.elemento",
+        "description": "src.lib.sae.ambiente.elemento",
+        "peekOfCode": "class Elemento(Enum):\n\t\"\"\"\n\tElemento do ambiente\n\t\"\"\"\n\tAGENTE \t  = '@'\n\tALVO \t  = 'A'\n\tOBSTACULO = 'O'\n\tVAZIO \t  = '.'",
+        "detail": "src.lib.sae.ambiente.elemento",
+        "documentation": {}
+    },
+    {
+        "label": "\tOBSTACULO",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.elemento",
+        "description": "src.lib.sae.ambiente.elemento",
+        "peekOfCode": "\tOBSTACULO = 'O'\n\tVAZIO \t  = '.'",
+        "detail": "src.lib.sae.ambiente.elemento",
+        "documentation": {}
+    },
+    {
+        "label": "Posicao",
+        "kind": 5,
+        "importPath": "src.lib.sae.ambiente.posicao",
+        "description": "src.lib.sae.ambiente.posicao",
+        "peekOfCode": "Posicao = tuple[int, int]\n\"\"\"Tipo que define uma posição do ambiente\"\"\"",
+        "detail": "src.lib.sae.ambiente.posicao",
+        "documentation": {}
+    },
+    {
+        "label": "ControladorSimul",
+        "kind": 6,
+        "importPath": "src.lib.sae.controlador.controlador_simul",
+        "description": "src.lib.sae.controlador.controlador_simul",
+        "peekOfCode": "class ControladorSimul:\n\t\"\"\"\n\tControlador de simulação\n\t\"\"\"\n\tdef __init__(self, vista, modelo, escala, fps):\n\t\t\"\"\"\n\t\tIniciar controlador de simulação\n\t\t@param modelo_simul: modelo de simulação\n\t\t@param escala: dimensão dos elementos do ambiente\n\t\t@param fps: taxa de actualização da imagem em 'Frames Per Second",
+        "detail": "src.lib.sae.controlador.controlador_simul",
+        "documentation": {}
+    },
+    {
+        "label": "TERMINAR",
+        "kind": 5,
+        "importPath": "src.lib.sae.controlador.controlador_simul",
+        "description": "src.lib.sae.controlador.controlador_simul",
+        "peekOfCode": "TERMINAR = 't'\n\"\"\"Terminar simulação\"\"\"\nINICIAR = 'i'\n\"\"\"Iniciar ambiente\"\"\"\nPAUSA = 'p'\n\"\"\"Activar modo de pausa (execução passo-a-passo)\"\"\"\nEXECUTAR = 'e'\n\"\"\"Executar passo\"\"\"\nVELOCIDADE = 'v'\n\"\"\"Comutar velocidade (máxima/normal)\"\"\"",
+        "detail": "src.lib.sae.controlador.controlador_simul",
+        "documentation": {}
+    },
+    {
+        "label": "INICIAR",
+        "kind": 5,
+        "importPath": "src.lib.sae.controlador.controlador_simul",
+        "description": "src.lib.sae.controlador.controlador_simul",
+        "peekOfCode": "INICIAR = 'i'\n\"\"\"Iniciar ambiente\"\"\"\nPAUSA = 'p'\n\"\"\"Activar modo de pausa (execução passo-a-passo)\"\"\"\nEXECUTAR = 'e'\n\"\"\"Executar passo\"\"\"\nVELOCIDADE = 'v'\n\"\"\"Comutar velocidade (máxima/normal)\"\"\"\n#_____________________________________________________________\nclass ControladorSimul:",
+        "detail": "src.lib.sae.controlador.controlador_simul",
+        "documentation": {}
+    },
+    {
+        "label": "PAUSA",
+        "kind": 5,
+        "importPath": "src.lib.sae.controlador.controlador_simul",
+        "description": "src.lib.sae.controlador.controlador_simul",
+        "peekOfCode": "PAUSA = 'p'\n\"\"\"Activar modo de pausa (execução passo-a-passo)\"\"\"\nEXECUTAR = 'e'\n\"\"\"Executar passo\"\"\"\nVELOCIDADE = 'v'\n\"\"\"Comutar velocidade (máxima/normal)\"\"\"\n#_____________________________________________________________\nclass ControladorSimul:\n\t\"\"\"\n\tControlador de simulação",
+        "detail": "src.lib.sae.controlador.controlador_simul",
+        "documentation": {}
+    },
+    {
+        "label": "EXECUTAR",
+        "kind": 5,
+        "importPath": "src.lib.sae.controlador.controlador_simul",
+        "description": "src.lib.sae.controlador.controlador_simul",
+        "peekOfCode": "EXECUTAR = 'e'\n\"\"\"Executar passo\"\"\"\nVELOCIDADE = 'v'\n\"\"\"Comutar velocidade (máxima/normal)\"\"\"\n#_____________________________________________________________\nclass ControladorSimul:\n\t\"\"\"\n\tControlador de simulação\n\t\"\"\"\n\tdef __init__(self, vista, modelo, escala, fps):",
+        "detail": "src.lib.sae.controlador.controlador_simul",
+        "documentation": {}
+    },
+    {
+        "label": "VELOCIDADE",
+        "kind": 5,
+        "importPath": "src.lib.sae.controlador.controlador_simul",
+        "description": "src.lib.sae.controlador.controlador_simul",
+        "peekOfCode": "VELOCIDADE = 'v'\n\"\"\"Comutar velocidade (máxima/normal)\"\"\"\n#_____________________________________________________________\nclass ControladorSimul:\n\t\"\"\"\n\tControlador de simulação\n\t\"\"\"\n\tdef __init__(self, vista, modelo, escala, fps):\n\t\t\"\"\"\n\t\tIniciar controlador de simulação",
+        "detail": "src.lib.sae.controlador.controlador_simul",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.__vista",
+        "kind": 5,
+        "importPath": "src.lib.sae.controlador.controlador_simul",
+        "description": "src.lib.sae.controlador.controlador_simul",
+        "peekOfCode": "\t\tself.__vista = vista\n\t\tself.__modelo = modelo\n\t\tself.__fps = fps\t\t\n\t\t# Iniciar pygame\n\t\tpygame.init()\n\t\tself.__relogio = pygame.time.Clock()\n\t\t# Iniciar configuração de estado\n\t\tself.finalizar = False\n\t\t\"\"\"Finalizar simulação\"\"\"\n\t\tself.pausa = False",
+        "detail": "src.lib.sae.controlador.controlador_simul",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.__modelo",
+        "kind": 5,
+        "importPath": "src.lib.sae.controlador.controlador_simul",
+        "description": "src.lib.sae.controlador.controlador_simul",
+        "peekOfCode": "\t\tself.__modelo = modelo\n\t\tself.__fps = fps\t\t\n\t\t# Iniciar pygame\n\t\tpygame.init()\n\t\tself.__relogio = pygame.time.Clock()\n\t\t# Iniciar configuração de estado\n\t\tself.finalizar = False\n\t\t\"\"\"Finalizar simulação\"\"\"\n\t\tself.pausa = False\n\t\t\"\"\"Pausa de execução\"\"\"",
+        "detail": "src.lib.sae.controlador.controlador_simul",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.__fps",
+        "kind": 5,
+        "importPath": "src.lib.sae.controlador.controlador_simul",
+        "description": "src.lib.sae.controlador.controlador_simul",
+        "peekOfCode": "\t\tself.__fps = fps\t\t\n\t\t# Iniciar pygame\n\t\tpygame.init()\n\t\tself.__relogio = pygame.time.Clock()\n\t\t# Iniciar configuração de estado\n\t\tself.finalizar = False\n\t\t\"\"\"Finalizar simulação\"\"\"\n\t\tself.pausa = False\n\t\t\"\"\"Pausa de execução\"\"\"\n\t\tself.passo = False",
+        "detail": "src.lib.sae.controlador.controlador_simul",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.__relogio",
+        "kind": 5,
+        "importPath": "src.lib.sae.controlador.controlador_simul",
+        "description": "src.lib.sae.controlador.controlador_simul",
+        "peekOfCode": "\t\tself.__relogio = pygame.time.Clock()\n\t\t# Iniciar configuração de estado\n\t\tself.finalizar = False\n\t\t\"\"\"Finalizar simulação\"\"\"\n\t\tself.pausa = False\n\t\t\"\"\"Pausa de execução\"\"\"\n\t\tself.passo = False\n\t\t\"\"\"Modo passo-a-passo\"\"\"\n\t\tself.vmax = False\n\t\t\"\"\"Velocidade máxima\"\"\"",
+        "detail": "src.lib.sae.controlador.controlador_simul",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.finalizar",
+        "kind": 5,
+        "importPath": "src.lib.sae.controlador.controlador_simul",
+        "description": "src.lib.sae.controlador.controlador_simul",
+        "peekOfCode": "\t\tself.finalizar = False\n\t\t\"\"\"Finalizar simulação\"\"\"\n\t\tself.pausa = False\n\t\t\"\"\"Pausa de execução\"\"\"\n\t\tself.passo = False\n\t\t\"\"\"Modo passo-a-passo\"\"\"\n\t\tself.vmax = False\n\t\t\"\"\"Velocidade máxima\"\"\"\n\tdef __processar_eventos(self):\n\t\t\"\"\"",
+        "detail": "src.lib.sae.controlador.controlador_simul",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.pausa",
+        "kind": 5,
+        "importPath": "src.lib.sae.controlador.controlador_simul",
+        "description": "src.lib.sae.controlador.controlador_simul",
+        "peekOfCode": "\t\tself.pausa = False\n\t\t\"\"\"Pausa de execução\"\"\"\n\t\tself.passo = False\n\t\t\"\"\"Modo passo-a-passo\"\"\"\n\t\tself.vmax = False\n\t\t\"\"\"Velocidade máxima\"\"\"\n\tdef __processar_eventos(self):\n\t\t\"\"\"\n\t\tProcessar eventos de controlo da simulação\n\t\t\"\"\"",
+        "detail": "src.lib.sae.controlador.controlador_simul",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.passo",
+        "kind": 5,
+        "importPath": "src.lib.sae.controlador.controlador_simul",
+        "description": "src.lib.sae.controlador.controlador_simul",
+        "peekOfCode": "\t\tself.passo = False\n\t\t\"\"\"Modo passo-a-passo\"\"\"\n\t\tself.vmax = False\n\t\t\"\"\"Velocidade máxima\"\"\"\n\tdef __processar_eventos(self):\n\t\t\"\"\"\n\t\tProcessar eventos de controlo da simulação\n\t\t\"\"\"\n\t\tself.reinicio = False\n\t\tfor evento in pygame.event.get():",
+        "detail": "src.lib.sae.controlador.controlador_simul",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.vmax",
+        "kind": 5,
+        "importPath": "src.lib.sae.controlador.controlador_simul",
+        "description": "src.lib.sae.controlador.controlador_simul",
+        "peekOfCode": "\t\tself.vmax = False\n\t\t\"\"\"Velocidade máxima\"\"\"\n\tdef __processar_eventos(self):\n\t\t\"\"\"\n\t\tProcessar eventos de controlo da simulação\n\t\t\"\"\"\n\t\tself.reinicio = False\n\t\tfor evento in pygame.event.get():\n\t\t\tif evento.type == pygame.QUIT:\n\t\t\t\tself.finalizar = True",
+        "detail": "src.lib.sae.controlador.controlador_simul",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.reinicio",
+        "kind": 5,
+        "importPath": "src.lib.sae.controlador.controlador_simul",
+        "description": "src.lib.sae.controlador.controlador_simul",
+        "peekOfCode": "\t\tself.reinicio = False\n\t\tfor evento in pygame.event.get():\n\t\t\tif evento.type == pygame.QUIT:\n\t\t\t\tself.finalizar = True\n\t\t\telif evento.type == pygame.KEYDOWN:\n\t\t\t\tkey = evento.unicode.lower()\n\t\t\t\tif key == TERMINAR:\n\t\t\t\t\tself.finalizar = True\n\t\t\t\telif key == INICIAR:\n\t\t\t\t\tself.__modelo.iniciar()",
+        "detail": "src.lib.sae.controlador.controlador_simul",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tself.finalizar",
+        "kind": 5,
+        "importPath": "src.lib.sae.controlador.controlador_simul",
+        "description": "src.lib.sae.controlador.controlador_simul",
+        "peekOfCode": "\t\t\t\tself.finalizar = True\n\t\t\telif evento.type == pygame.KEYDOWN:\n\t\t\t\tkey = evento.unicode.lower()\n\t\t\t\tif key == TERMINAR:\n\t\t\t\t\tself.finalizar = True\n\t\t\t\telif key == INICIAR:\n\t\t\t\t\tself.__modelo.iniciar()\n\t\t\t\telif key == PAUSA:\n\t\t\t\t\tself.pausa = not self.pausa\n\t\t\t\telif key == EXECUTAR:",
+        "detail": "src.lib.sae.controlador.controlador_simul",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tkey",
+        "kind": 5,
+        "importPath": "src.lib.sae.controlador.controlador_simul",
+        "description": "src.lib.sae.controlador.controlador_simul",
+        "peekOfCode": "\t\t\t\tkey = evento.unicode.lower()\n\t\t\t\tif key == TERMINAR:\n\t\t\t\t\tself.finalizar = True\n\t\t\t\telif key == INICIAR:\n\t\t\t\t\tself.__modelo.iniciar()\n\t\t\t\telif key == PAUSA:\n\t\t\t\t\tself.pausa = not self.pausa\n\t\t\t\telif key == EXECUTAR:\n\t\t\t\t\tself.passo = True\n\t\t\t\telif key == VELOCIDADE:",
+        "detail": "src.lib.sae.controlador.controlador_simul",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\t\tself.finalizar",
+        "kind": 5,
+        "importPath": "src.lib.sae.controlador.controlador_simul",
+        "description": "src.lib.sae.controlador.controlador_simul",
+        "peekOfCode": "\t\t\t\t\tself.finalizar = True\n\t\t\t\telif key == INICIAR:\n\t\t\t\t\tself.__modelo.iniciar()\n\t\t\t\telif key == PAUSA:\n\t\t\t\t\tself.pausa = not self.pausa\n\t\t\t\telif key == EXECUTAR:\n\t\t\t\t\tself.passo = True\n\t\t\t\telif key == VELOCIDADE:\n\t\t\t\t\tself.vmax = not self.vmax\n\tdef __actualizar_vista(self):",
+        "detail": "src.lib.sae.controlador.controlador_simul",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\t\tself.pausa",
+        "kind": 5,
+        "importPath": "src.lib.sae.controlador.controlador_simul",
+        "description": "src.lib.sae.controlador.controlador_simul",
+        "peekOfCode": "\t\t\t\t\tself.pausa = not self.pausa\n\t\t\t\telif key == EXECUTAR:\n\t\t\t\t\tself.passo = True\n\t\t\t\telif key == VELOCIDADE:\n\t\t\t\t\tself.vmax = not self.vmax\n\tdef __actualizar_vista(self):\n\t\t\"\"\"\n\t\tActualizar vista de simulação de acordo\n\t\tcom a taxa de actualização (FPS)\n\t\t\"\"\"",
+        "detail": "src.lib.sae.controlador.controlador_simul",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\t\tself.passo",
+        "kind": 5,
+        "importPath": "src.lib.sae.controlador.controlador_simul",
+        "description": "src.lib.sae.controlador.controlador_simul",
+        "peekOfCode": "\t\t\t\t\tself.passo = True\n\t\t\t\telif key == VELOCIDADE:\n\t\t\t\t\tself.vmax = not self.vmax\n\tdef __actualizar_vista(self):\n\t\t\"\"\"\n\t\tActualizar vista de simulação de acordo\n\t\tcom a taxa de actualização (FPS)\n\t\t\"\"\"\n\t\tself.__vista.actualizar()\n\t\tif not self.vmax:",
+        "detail": "src.lib.sae.controlador.controlador_simul",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\t\tself.vmax",
+        "kind": 5,
+        "importPath": "src.lib.sae.controlador.controlador_simul",
+        "description": "src.lib.sae.controlador.controlador_simul",
+        "peekOfCode": "\t\t\t\t\tself.vmax = not self.vmax\n\tdef __actualizar_vista(self):\n\t\t\"\"\"\n\t\tActualizar vista de simulação de acordo\n\t\tcom a taxa de actualização (FPS)\n\t\t\"\"\"\n\t\tself.__vista.actualizar()\n\t\tif not self.vmax:\n\t\t\tself.__relogio.tick(self.__fps)\n\tdef processar(self):",
+        "detail": "src.lib.sae.controlador.controlador_simul",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tself.passo",
+        "kind": 5,
+        "importPath": "src.lib.sae.controlador.controlador_simul",
+        "description": "src.lib.sae.controlador.controlador_simul",
+        "peekOfCode": "\t\t\t\tself.passo = False\n\t\t\t# Actualizar visualização\n\t\t\tself.__actualizar_vista()\t\t\n\t\t# Terminar simulação\n\t\tself.__terminar()\n\tdef __terminar(self):\n\t\t\"\"\"\n\t\tTerminar simulação\n\t\t\"\"\"\n\t\tpygame.quit()",
+        "detail": "src.lib.sae.controlador.controlador_simul",
+        "documentation": {}
+    },
+    {
+        "label": "ModeloSimul",
+        "kind": 6,
+        "importPath": "src.lib.sae.modelo.modelo_simul",
+        "description": "src.lib.sae.modelo.modelo_simul",
+        "peekOfCode": "class ModeloSimul:\n    \"\"\"\n    Modelo de simulação\n    Representa o ambiente e o agente\n    \"\"\"\n    def __init__(self, ambiente, agente, reiniciar=False):\n        self.__ambiente = ambiente\n        self.__agente = agente\n        self.__reiniciar = reiniciar\n    @property",
+        "detail": "src.lib.sae.modelo.modelo_simul",
+        "documentation": {}
+    },
+    {
+        "label": "VistaAmb",
+        "kind": 6,
+        "importPath": "src.lib.sae.vistas.vista_amb",
+        "description": "src.lib.sae.vistas.vista_amb",
+        "peekOfCode": "class VistaAmb(Visualizador):\n    def mostrar_elemento(self, posicao, elemento):\n        \"\"\"\n        Mostrar elemento numa posição excepto agente\n        @param posicao: posição do elemento\n        @param elemento: elemento a mostrar\n        \"\"\"\n        try:\n            if elemento == Elemento.ALVO:\n                self.alvo(posicao)",
+        "detail": "src.lib.sae.vistas.vista_amb",
+        "documentation": {}
+    },
+    {
+        "label": "VistaSimul",
+        "kind": 6,
+        "importPath": "src.lib.sae.vistas.vista_simul",
+        "description": "src.lib.sae.vistas.vista_simul",
+        "peekOfCode": "class VistaSimul:\n    def __init__(self, modelo, escala):\n        \"\"\"\n        Iniciar vista\n        @param escala: dimensão dos elementos do ambiente\n        @param fps: taxa de actualização do ecrã\n        \"\"\"\n        self._modelo = modelo\n        # Dimensões de visualização\n        dim_vis_x = modelo.ambiente.dim_x * escala",
+        "detail": "src.lib.sae.vistas.vista_simul",
+        "documentation": {}
+    },
+    {
+        "label": "SEP_X",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.vista_simul",
+        "description": "src.lib.sae.vistas.vista_simul",
+        "peekOfCode": "SEP_X = 1\nSEP_Y = 1\n# Posição inicial da janela\nPOS_JAN_X = 10\nPOS_JAN_Y = 40\n# Número de visualizadores e de separadores\nNUM_VIS = 2\nNUM_SEP_X = NUM_VIS + 1\nNUM_SEP_Y = 2\n#_____________________________________________________________",
+        "detail": "src.lib.sae.vistas.vista_simul",
+        "documentation": {}
+    },
+    {
+        "label": "SEP_Y",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.vista_simul",
+        "description": "src.lib.sae.vistas.vista_simul",
+        "peekOfCode": "SEP_Y = 1\n# Posição inicial da janela\nPOS_JAN_X = 10\nPOS_JAN_Y = 40\n# Número de visualizadores e de separadores\nNUM_VIS = 2\nNUM_SEP_X = NUM_VIS + 1\nNUM_SEP_Y = 2\n#_____________________________________________________________\nclass VistaSimul:",
+        "detail": "src.lib.sae.vistas.vista_simul",
+        "documentation": {}
+    },
+    {
+        "label": "POS_JAN_X",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.vista_simul",
+        "description": "src.lib.sae.vistas.vista_simul",
+        "peekOfCode": "POS_JAN_X = 10\nPOS_JAN_Y = 40\n# Número de visualizadores e de separadores\nNUM_VIS = 2\nNUM_SEP_X = NUM_VIS + 1\nNUM_SEP_Y = 2\n#_____________________________________________________________\nclass VistaSimul:\n    def __init__(self, modelo, escala):\n        \"\"\"",
+        "detail": "src.lib.sae.vistas.vista_simul",
+        "documentation": {}
+    },
+    {
+        "label": "POS_JAN_Y",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.vista_simul",
+        "description": "src.lib.sae.vistas.vista_simul",
+        "peekOfCode": "POS_JAN_Y = 40\n# Número de visualizadores e de separadores\nNUM_VIS = 2\nNUM_SEP_X = NUM_VIS + 1\nNUM_SEP_Y = 2\n#_____________________________________________________________\nclass VistaSimul:\n    def __init__(self, modelo, escala):\n        \"\"\"\n        Iniciar vista",
+        "detail": "src.lib.sae.vistas.vista_simul",
+        "documentation": {}
+    },
+    {
+        "label": "NUM_VIS",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.vista_simul",
+        "description": "src.lib.sae.vistas.vista_simul",
+        "peekOfCode": "NUM_VIS = 2\nNUM_SEP_X = NUM_VIS + 1\nNUM_SEP_Y = 2\n#_____________________________________________________________\nclass VistaSimul:\n    def __init__(self, modelo, escala):\n        \"\"\"\n        Iniciar vista\n        @param escala: dimensão dos elementos do ambiente\n        @param fps: taxa de actualização do ecrã",
+        "detail": "src.lib.sae.vistas.vista_simul",
+        "documentation": {}
+    },
+    {
+        "label": "NUM_SEP_X",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.vista_simul",
+        "description": "src.lib.sae.vistas.vista_simul",
+        "peekOfCode": "NUM_SEP_X = NUM_VIS + 1\nNUM_SEP_Y = 2\n#_____________________________________________________________\nclass VistaSimul:\n    def __init__(self, modelo, escala):\n        \"\"\"\n        Iniciar vista\n        @param escala: dimensão dos elementos do ambiente\n        @param fps: taxa de actualização do ecrã\n        \"\"\"",
+        "detail": "src.lib.sae.vistas.vista_simul",
+        "documentation": {}
+    },
+    {
+        "label": "NUM_SEP_Y",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.vista_simul",
+        "description": "src.lib.sae.vistas.vista_simul",
+        "peekOfCode": "NUM_SEP_Y = 2\n#_____________________________________________________________\nclass VistaSimul:\n    def __init__(self, modelo, escala):\n        \"\"\"\n        Iniciar vista\n        @param escala: dimensão dos elementos do ambiente\n        @param fps: taxa de actualização do ecrã\n        \"\"\"\n        self._modelo = modelo",
+        "detail": "src.lib.sae.vistas.vista_simul",
+        "documentation": {}
+    },
+    {
+        "label": "Visualizador",
+        "kind": 6,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "class Visualizador:\n\tdef __init__(self, dim_x, dim_y, svis_base, rect_base, escala, cor_fundo):\n\t\t\"\"\"\n\t\tIniciar visualizador\n\t\t@param dim_x: dimensão do eixo x\n\t\t@param dim_y: dimensão do eixo y\n\t\t@param svis_base: superfície de visualização base\n\t\t@param rect_base: rectângulo de visualização base\n\t\t@param escala: dimensão de cada elemento\n\t\t@param cor_fundo: cor de fundo",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "BRANCO",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "BRANCO = (255, 255, 255)\nPRETO = (0, 0, 0)\nAMARELO = (255, 255, 0)\nVERMELHO = (255, 0, 0)\nVERDE = (0, 255, 0)\nAZUL = (0, 0, 255)\n# Cores específicas de elementos\nCOR_AGENTE = (255, 220, 0)\nCOR_ALVO = (0, 250, 0)\nCOR_BASE = (0, 250, 0)",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "PRETO",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "PRETO = (0, 0, 0)\nAMARELO = (255, 255, 0)\nVERMELHO = (255, 0, 0)\nVERDE = (0, 255, 0)\nAZUL = (0, 0, 255)\n# Cores específicas de elementos\nCOR_AGENTE = (255, 220, 0)\nCOR_ALVO = (0, 250, 0)\nCOR_BASE = (0, 250, 0)\nCOR_OBST = (150, 150, 150)",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "AMARELO",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "AMARELO = (255, 255, 0)\nVERMELHO = (255, 0, 0)\nVERDE = (0, 255, 0)\nAZUL = (0, 0, 255)\n# Cores específicas de elementos\nCOR_AGENTE = (255, 220, 0)\nCOR_ALVO = (0, 250, 0)\nCOR_BASE = (0, 250, 0)\nCOR_OBST = (150, 150, 150)\nCOR_COLIS = (255, 0, 0)",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "VERMELHO",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "VERMELHO = (255, 0, 0)\nVERDE = (0, 255, 0)\nAZUL = (0, 0, 255)\n# Cores específicas de elementos\nCOR_AGENTE = (255, 220, 0)\nCOR_ALVO = (0, 250, 0)\nCOR_BASE = (0, 250, 0)\nCOR_OBST = (150, 150, 150)\nCOR_COLIS = (255, 0, 0)\nCOR_AGLINHA = (0, 0, 0)",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "VERDE",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "VERDE = (0, 255, 0)\nAZUL = (0, 0, 255)\n# Cores específicas de elementos\nCOR_AGENTE = (255, 220, 0)\nCOR_ALVO = (0, 250, 0)\nCOR_BASE = (0, 250, 0)\nCOR_OBST = (150, 150, 150)\nCOR_COLIS = (255, 0, 0)\nCOR_AGLINHA = (0, 0, 0)\n#___________________________________________________________",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "AZUL",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "AZUL = (0, 0, 255)\n# Cores específicas de elementos\nCOR_AGENTE = (255, 220, 0)\nCOR_ALVO = (0, 250, 0)\nCOR_BASE = (0, 250, 0)\nCOR_OBST = (150, 150, 150)\nCOR_COLIS = (255, 0, 0)\nCOR_AGLINHA = (0, 0, 0)\n#___________________________________________________________\nclass Visualizador:",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "COR_AGENTE",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "COR_AGENTE = (255, 220, 0)\nCOR_ALVO = (0, 250, 0)\nCOR_BASE = (0, 250, 0)\nCOR_OBST = (150, 150, 150)\nCOR_COLIS = (255, 0, 0)\nCOR_AGLINHA = (0, 0, 0)\n#___________________________________________________________\nclass Visualizador:\n\tdef __init__(self, dim_x, dim_y, svis_base, rect_base, escala, cor_fundo):\n\t\t\"\"\"",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "COR_ALVO",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "COR_ALVO = (0, 250, 0)\nCOR_BASE = (0, 250, 0)\nCOR_OBST = (150, 150, 150)\nCOR_COLIS = (255, 0, 0)\nCOR_AGLINHA = (0, 0, 0)\n#___________________________________________________________\nclass Visualizador:\n\tdef __init__(self, dim_x, dim_y, svis_base, rect_base, escala, cor_fundo):\n\t\t\"\"\"\n\t\tIniciar visualizador",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "COR_BASE",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "COR_BASE = (0, 250, 0)\nCOR_OBST = (150, 150, 150)\nCOR_COLIS = (255, 0, 0)\nCOR_AGLINHA = (0, 0, 0)\n#___________________________________________________________\nclass Visualizador:\n\tdef __init__(self, dim_x, dim_y, svis_base, rect_base, escala, cor_fundo):\n\t\t\"\"\"\n\t\tIniciar visualizador\n\t\t@param dim_x: dimensão do eixo x",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "COR_OBST",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "COR_OBST = (150, 150, 150)\nCOR_COLIS = (255, 0, 0)\nCOR_AGLINHA = (0, 0, 0)\n#___________________________________________________________\nclass Visualizador:\n\tdef __init__(self, dim_x, dim_y, svis_base, rect_base, escala, cor_fundo):\n\t\t\"\"\"\n\t\tIniciar visualizador\n\t\t@param dim_x: dimensão do eixo x\n\t\t@param dim_y: dimensão do eixo y",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "COR_COLIS",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "COR_COLIS = (255, 0, 0)\nCOR_AGLINHA = (0, 0, 0)\n#___________________________________________________________\nclass Visualizador:\n\tdef __init__(self, dim_x, dim_y, svis_base, rect_base, escala, cor_fundo):\n\t\t\"\"\"\n\t\tIniciar visualizador\n\t\t@param dim_x: dimensão do eixo x\n\t\t@param dim_y: dimensão do eixo y\n\t\t@param svis_base: superfície de visualização base",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "COR_AGLINHA",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "COR_AGLINHA = (0, 0, 0)\n#___________________________________________________________\nclass Visualizador:\n\tdef __init__(self, dim_x, dim_y, svis_base, rect_base, escala, cor_fundo):\n\t\t\"\"\"\n\t\tIniciar visualizador\n\t\t@param dim_x: dimensão do eixo x\n\t\t@param dim_y: dimensão do eixo y\n\t\t@param svis_base: superfície de visualização base\n\t\t@param rect_base: rectângulo de visualização base",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself._svis_base",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\tself._svis_base = svis_base\n\t\tself._rect_base = rect_base\n\t\tself._escala = escala\n\t\tself._cor_fundo = cor_fundo\n\t\tself._svis = pygame.Surface((dim_x, dim_y))\n\t\tself.limpar()\n\tdef actualizar(self):\n\t\t\"\"\"\n\t\tActualizar visualização\n\t\t\"\"\"",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself._rect_base",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\tself._rect_base = rect_base\n\t\tself._escala = escala\n\t\tself._cor_fundo = cor_fundo\n\t\tself._svis = pygame.Surface((dim_x, dim_y))\n\t\tself.limpar()\n\tdef actualizar(self):\n\t\t\"\"\"\n\t\tActualizar visualização\n\t\t\"\"\"\n\t\tself._svis_base.blit(self._svis, self._rect_base)",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself._escala",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\tself._escala = escala\n\t\tself._cor_fundo = cor_fundo\n\t\tself._svis = pygame.Surface((dim_x, dim_y))\n\t\tself.limpar()\n\tdef actualizar(self):\n\t\t\"\"\"\n\t\tActualizar visualização\n\t\t\"\"\"\n\t\tself._svis_base.blit(self._svis, self._rect_base)\n\t\tpygame.display.update(self._rect_base)\t",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself._cor_fundo",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\tself._cor_fundo = cor_fundo\n\t\tself._svis = pygame.Surface((dim_x, dim_y))\n\t\tself.limpar()\n\tdef actualizar(self):\n\t\t\"\"\"\n\t\tActualizar visualização\n\t\t\"\"\"\n\t\tself._svis_base.blit(self._svis, self._rect_base)\n\t\tpygame.display.update(self._rect_base)\t\n\tdef limpar(self):",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself._svis",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\tself._svis = pygame.Surface((dim_x, dim_y))\n\t\tself.limpar()\n\tdef actualizar(self):\n\t\t\"\"\"\n\t\tActualizar visualização\n\t\t\"\"\"\n\t\tself._svis_base.blit(self._svis, self._rect_base)\n\t\tpygame.display.update(self._rect_base)\t\n\tdef limpar(self):\n\t\t\"\"\"",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tr",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\tr = round(0.4 * self._escala)\n\t\tmargem = 0.1 * self._escala\n\t\tx, y = self.pvpix(pos)\n\t\tx0 = round(x + r + margem)\n\t\ty0 = round(y + r + margem)\n\t\tcor = COR_COLIS if col else COR_AGENTE\n\t\tpygame.gfxdraw.filled_circle(self._svis, x0, y0, r, cor)\n\t\tpygame.gfxdraw.aacircle(self._svis, x0, y0, r, cor)\n\t\tif ang is not None:\n\t\t\tdx = r * math.cos(ang)",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tmargem",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\tmargem = 0.1 * self._escala\n\t\tx, y = self.pvpix(pos)\n\t\tx0 = round(x + r + margem)\n\t\ty0 = round(y + r + margem)\n\t\tcor = COR_COLIS if col else COR_AGENTE\n\t\tpygame.gfxdraw.filled_circle(self._svis, x0, y0, r, cor)\n\t\tpygame.gfxdraw.aacircle(self._svis, x0, y0, r, cor)\n\t\tif ang is not None:\n\t\t\tdx = r * math.cos(ang)\n\t\t\tdy = -r * math.sin(ang)",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tx0",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\tx0 = round(x + r + margem)\n\t\ty0 = round(y + r + margem)\n\t\tcor = COR_COLIS if col else COR_AGENTE\n\t\tpygame.gfxdraw.filled_circle(self._svis, x0, y0, r, cor)\n\t\tpygame.gfxdraw.aacircle(self._svis, x0, y0, r, cor)\n\t\tif ang is not None:\n\t\t\tdx = r * math.cos(ang)\n\t\t\tdy = -r * math.sin(ang)\n\t\t\tx1 = round(x0 + dx)\n\t\t\ty1 = round(y0 + dy)",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\ty0",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\ty0 = round(y + r + margem)\n\t\tcor = COR_COLIS if col else COR_AGENTE\n\t\tpygame.gfxdraw.filled_circle(self._svis, x0, y0, r, cor)\n\t\tpygame.gfxdraw.aacircle(self._svis, x0, y0, r, cor)\n\t\tif ang is not None:\n\t\t\tdx = r * math.cos(ang)\n\t\t\tdy = -r * math.sin(ang)\n\t\t\tx1 = round(x0 + dx)\n\t\t\ty1 = round(y0 + dy)\n\t\t\tpygame.draw.line(self._svis, COR_AGLINHA, (x0, y0), (x1, y1))",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcor",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\tcor = COR_COLIS if col else COR_AGENTE\n\t\tpygame.gfxdraw.filled_circle(self._svis, x0, y0, r, cor)\n\t\tpygame.gfxdraw.aacircle(self._svis, x0, y0, r, cor)\n\t\tif ang is not None:\n\t\t\tdx = r * math.cos(ang)\n\t\t\tdy = -r * math.sin(ang)\n\t\t\tx1 = round(x0 + dx)\n\t\t\ty1 = round(y0 + dy)\n\t\t\tpygame.draw.line(self._svis, COR_AGLINHA, (x0, y0), (x1, y1))\n\t\tif carga:",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tdx",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\t\tdx = r * math.cos(ang)\n\t\t\tdy = -r * math.sin(ang)\n\t\t\tx1 = round(x0 + dx)\n\t\t\ty1 = round(y0 + dy)\n\t\t\tpygame.draw.line(self._svis, COR_AGLINHA, (x0, y0), (x1, y1))\n\t\tif carga:\n\t\t\tself.rect(pos, int(0.3 * self._escala), COR_ALVO, 0)\n\tdef alvo(self, pos):\n\t\t\"\"\"\n\t\tVisualizar alvo",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tdy",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\t\tdy = -r * math.sin(ang)\n\t\t\tx1 = round(x0 + dx)\n\t\t\ty1 = round(y0 + dy)\n\t\t\tpygame.draw.line(self._svis, COR_AGLINHA, (x0, y0), (x1, y1))\n\t\tif carga:\n\t\t\tself.rect(pos, int(0.3 * self._escala), COR_ALVO, 0)\n\tdef alvo(self, pos):\n\t\t\"\"\"\n\t\tVisualizar alvo\n\t\t@param pos: posição do elemento",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tx1",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\t\tx1 = round(x0 + dx)\n\t\t\ty1 = round(y0 + dy)\n\t\t\tpygame.draw.line(self._svis, COR_AGLINHA, (x0, y0), (x1, y1))\n\t\tif carga:\n\t\t\tself.rect(pos, int(0.3 * self._escala), COR_ALVO, 0)\n\tdef alvo(self, pos):\n\t\t\"\"\"\n\t\tVisualizar alvo\n\t\t@param pos: posição do elemento\n\t\t\"\"\"",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\ty1",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\t\ty1 = round(y0 + dy)\n\t\t\tpygame.draw.line(self._svis, COR_AGLINHA, (x0, y0), (x1, y1))\n\t\tif carga:\n\t\t\tself.rect(pos, int(0.3 * self._escala), COR_ALVO, 0)\n\tdef alvo(self, pos):\n\t\t\"\"\"\n\t\tVisualizar alvo\n\t\t@param pos: posição do elemento\n\t\t\"\"\"\n\t\tself.rect(pos, 2, COR_ALVO, 0)",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tspx",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\tspx = margem\n\t\tspy = margem\n\t\trect = pygame.Rect(x + spx, y + spy, self._escala - spx*2, self._escala - spy*2)\n\t\tpygame.draw.rect(self._svis, cor, rect, linha)\n\tdef vector(self, pos, mod, ang, cor=(255, 255, 0), linha=1, seta=True):\n\t\t\"\"\"\n\t\tVisualizar vector\n\t\t@param pos: posição do elemento\n\t\t@param mod: módulo (dimensão do vector)\n\t\t@param ang: ângulo de orientação",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tspy",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\tspy = margem\n\t\trect = pygame.Rect(x + spx, y + spy, self._escala - spx*2, self._escala - spy*2)\n\t\tpygame.draw.rect(self._svis, cor, rect, linha)\n\tdef vector(self, pos, mod, ang, cor=(255, 255, 0), linha=1, seta=True):\n\t\t\"\"\"\n\t\tVisualizar vector\n\t\t@param pos: posição do elemento\n\t\t@param mod: módulo (dimensão do vector)\n\t\t@param ang: ângulo de orientação\n\t\t@param cor: cor RGB",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\trect",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\trect = pygame.Rect(x + spx, y + spy, self._escala - spx*2, self._escala - spy*2)\n\t\tpygame.draw.rect(self._svis, cor, rect, linha)\n\tdef vector(self, pos, mod, ang, cor=(255, 255, 0), linha=1, seta=True):\n\t\t\"\"\"\n\t\tVisualizar vector\n\t\t@param pos: posição do elemento\n\t\t@param mod: módulo (dimensão do vector)\n\t\t@param ang: ângulo de orientação\n\t\t@param cor: cor RGB\n\t\t@param linha: espessura de linha",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\txi",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\txi = x + self._escala / 2.0\n\t\tyi = y + self._escala / 2.0\n\t\tPROP_VECT = 0.5 # Proporção do vector em relação à escala\n\t\tdim = PROP_VECT * mod * self._escala\n\t\tlinhas = self.linhas_vect((xi,yi), dim, ang, 0.17 * math.pi, 0.5)  \n\t\tif seta:\n\t\t\tfor posini, posfin in linhas:\n\t\t\t\tpygame.draw.line(self._svis, cor, posini, posfin, linha)\n\t\telse:\n\t\t\tposini, posfin = linhas[0]",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tyi",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\tyi = y + self._escala / 2.0\n\t\tPROP_VECT = 0.5 # Proporção do vector em relação à escala\n\t\tdim = PROP_VECT * mod * self._escala\n\t\tlinhas = self.linhas_vect((xi,yi), dim, ang, 0.17 * math.pi, 0.5)  \n\t\tif seta:\n\t\t\tfor posini, posfin in linhas:\n\t\t\t\tpygame.draw.line(self._svis, cor, posini, posfin, linha)\n\t\telse:\n\t\t\tposini, posfin = linhas[0]\n\t\t\tpygame.draw.line(self._svis, cor, posini, posfin, linha)",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tPROP_VECT",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\tPROP_VECT = 0.5 # Proporção do vector em relação à escala\n\t\tdim = PROP_VECT * mod * self._escala\n\t\tlinhas = self.linhas_vect((xi,yi), dim, ang, 0.17 * math.pi, 0.5)  \n\t\tif seta:\n\t\t\tfor posini, posfin in linhas:\n\t\t\t\tpygame.draw.line(self._svis, cor, posini, posfin, linha)\n\t\telse:\n\t\t\tposini, posfin = linhas[0]\n\t\t\tpygame.draw.line(self._svis, cor, posini, posfin, linha)\n\tdef marcar(self, posicoes, margem=2, cor=AMARELO, linha=0):",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tdim",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\tdim = PROP_VECT * mod * self._escala\n\t\tlinhas = self.linhas_vect((xi,yi), dim, ang, 0.17 * math.pi, 0.5)  \n\t\tif seta:\n\t\t\tfor posini, posfin in linhas:\n\t\t\t\tpygame.draw.line(self._svis, cor, posini, posfin, linha)\n\t\telse:\n\t\t\tposini, posfin = linhas[0]\n\t\t\tpygame.draw.line(self._svis, cor, posini, posfin, linha)\n\tdef marcar(self, posicoes, margem=2, cor=AMARELO, linha=0):\n\t\t\"\"\"",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tlinhas",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\tlinhas = self.linhas_vect((xi,yi), dim, ang, 0.17 * math.pi, 0.5)  \n\t\tif seta:\n\t\t\tfor posini, posfin in linhas:\n\t\t\t\tpygame.draw.line(self._svis, cor, posini, posfin, linha)\n\t\telse:\n\t\t\tposini, posfin = linhas[0]\n\t\t\tpygame.draw.line(self._svis, cor, posini, posfin, linha)\n\tdef marcar(self, posicoes, margem=2, cor=AMARELO, linha=0):\n\t\t\"\"\"\n\t\tMarcar posições",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tx",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\tx = round(xv * self._escala)\n\t\ty = round(yv * self._escala)\n\t\treturn x, y\n\tdef inc_pos(self, mod, ang):   \n\t\t\"\"\"\n\t\tGerar incremento de posição (dx,dy)\n\t\t@param mod: módulo da distância de movimentação\n\t\t@param ang: ângulo de movimentação\n\t\t@return: incremento de posição (dx, dy)\n\t\t\"\"\"",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\ty",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\ty = round(yv * self._escala)\n\t\treturn x, y\n\tdef inc_pos(self, mod, ang):   \n\t\t\"\"\"\n\t\tGerar incremento de posição (dx,dy)\n\t\t@param mod: módulo da distância de movimentação\n\t\t@param ang: ângulo de movimentação\n\t\t@return: incremento de posição (dx, dy)\n\t\t\"\"\"\n\t\tdx = mod * math.cos(ang)",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tdx",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\tdx = mod * math.cos(ang)\n\t\tdy = -mod * math.sin(ang)\n\t\treturn dx, dy\n\tdef linhas_vect(self, pos_i, mod, ang, beta, factor_seta):\n\t\t\"\"\"\n\t\tGerar linhas de um vector\n\t\t@param pos_i: posição inicial\n\t\t@param mod: módulo do vector\n\t\t@param ang: ângulo do vector\n\t\t@param beta: ângulo da seta",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tdy",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\tdy = -mod * math.sin(ang)\n\t\treturn dx, dy\n\tdef linhas_vect(self, pos_i, mod, ang, beta, factor_seta):\n\t\t\"\"\"\n\t\tGerar linhas de um vector\n\t\t@param pos_i: posição inicial\n\t\t@param mod: módulo do vector\n\t\t@param ang: ângulo do vector\n\t\t@param beta: ângulo da seta\n\t\t@param factor_seta: factor de dimensão da seta",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\txf",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\txf = xi + dx\n\t\tyf = yi + dy\n\t\tgama = ang + math.pi\n\t\tgama1 = gama + beta\n\t\tgama2 = gama - beta\n\t\tnmod = factor_seta * mod\n\t\tdx1, dy1 = self.inc_pos(nmod, gama1)        \n\t\tdx2, dy2 = self.inc_pos(nmod, gama2) \n\t\tlinha1 = (xi, yi), (xf, yf)\n\t\tlinha2 = (xf, yf), (xf + dx1, yf + dy1)",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tyf",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\tyf = yi + dy\n\t\tgama = ang + math.pi\n\t\tgama1 = gama + beta\n\t\tgama2 = gama - beta\n\t\tnmod = factor_seta * mod\n\t\tdx1, dy1 = self.inc_pos(nmod, gama1)        \n\t\tdx2, dy2 = self.inc_pos(nmod, gama2) \n\t\tlinha1 = (xi, yi), (xf, yf)\n\t\tlinha2 = (xf, yf), (xf + dx1, yf + dy1)\n\t\tlinha3 = (xf, yf), (xf + dx2, yf + dy2)",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tgama",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\tgama = ang + math.pi\n\t\tgama1 = gama + beta\n\t\tgama2 = gama - beta\n\t\tnmod = factor_seta * mod\n\t\tdx1, dy1 = self.inc_pos(nmod, gama1)        \n\t\tdx2, dy2 = self.inc_pos(nmod, gama2) \n\t\tlinha1 = (xi, yi), (xf, yf)\n\t\tlinha2 = (xf, yf), (xf + dx1, yf + dy1)\n\t\tlinha3 = (xf, yf), (xf + dx2, yf + dy2)\n\t\treturn [linha1, linha2, linha3]",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tgama1",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\tgama1 = gama + beta\n\t\tgama2 = gama - beta\n\t\tnmod = factor_seta * mod\n\t\tdx1, dy1 = self.inc_pos(nmod, gama1)        \n\t\tdx2, dy2 = self.inc_pos(nmod, gama2) \n\t\tlinha1 = (xi, yi), (xf, yf)\n\t\tlinha2 = (xf, yf), (xf + dx1, yf + dy1)\n\t\tlinha3 = (xf, yf), (xf + dx2, yf + dy2)\n\t\treturn [linha1, linha2, linha3]",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tgama2",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\tgama2 = gama - beta\n\t\tnmod = factor_seta * mod\n\t\tdx1, dy1 = self.inc_pos(nmod, gama1)        \n\t\tdx2, dy2 = self.inc_pos(nmod, gama2) \n\t\tlinha1 = (xi, yi), (xf, yf)\n\t\tlinha2 = (xf, yf), (xf + dx1, yf + dy1)\n\t\tlinha3 = (xf, yf), (xf + dx2, yf + dy2)\n\t\treturn [linha1, linha2, linha3]",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tnmod",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\tnmod = factor_seta * mod\n\t\tdx1, dy1 = self.inc_pos(nmod, gama1)        \n\t\tdx2, dy2 = self.inc_pos(nmod, gama2) \n\t\tlinha1 = (xi, yi), (xf, yf)\n\t\tlinha2 = (xf, yf), (xf + dx1, yf + dy1)\n\t\tlinha3 = (xf, yf), (xf + dx2, yf + dy2)\n\t\treturn [linha1, linha2, linha3]",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tlinha1",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\tlinha1 = (xi, yi), (xf, yf)\n\t\tlinha2 = (xf, yf), (xf + dx1, yf + dy1)\n\t\tlinha3 = (xf, yf), (xf + dx2, yf + dy2)\n\t\treturn [linha1, linha2, linha3]",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tlinha2",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\tlinha2 = (xf, yf), (xf + dx1, yf + dy1)\n\t\tlinha3 = (xf, yf), (xf + dx2, yf + dy2)\n\t\treturn [linha1, linha2, linha3]",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tlinha3",
+        "kind": 5,
+        "importPath": "src.lib.sae.vistas.visualizador",
+        "description": "src.lib.sae.vistas.visualizador",
+        "peekOfCode": "\t\tlinha3 = (xf, yf), (xf + dx2, yf + dy2)\n\t\treturn [linha1, linha2, linha3]",
+        "detail": "src.lib.sae.vistas.visualizador",
+        "documentation": {}
+    },
+    {
+        "label": "DEF_AMB",
+        "kind": 5,
+        "importPath": "src.lib.sae.defamb",
+        "description": "src.lib.sae.defamb",
+        "peekOfCode": "DEF_AMB = {\n\t1:\t[\n\t\t\"....A..O.A........A.\",\n\t\t\".......O.....A......\",\n\t\t\".A.....O.A...OOOOOOO\",\n\t\t\"..A..........A...A..\",\n\t\t\"........OOO....O....\",\n\t\t\"...A........O.....A.\",\n\t\t\".OOO.A......O.A.....\",\n\t\t\".A..........OOO.A...\",",
+        "detail": "src.lib.sae.defamb",
+        "documentation": {}
+    },
+    {
+        "label": "Erro",
+        "kind": 6,
+        "importPath": "src.lib.sae.erro",
+        "description": "src.lib.sae.erro",
+        "peekOfCode": "class Erro(Enum):\n    \"\"\"\n    Tipos de erro\n    \"\"\"\n    AMB_NAO_DEF = \"Ambiente não definido\"\n    CONTROLO_INV = \"Argumento <controlo> não deriva da classe Controlo\"\n    PARAM_INV = \"Parâmetros inválidos\"\n#_____________________________________________________________\ndef erro_terminar(erro, *param):\n    \"\"\"",
+        "detail": "src.lib.sae.erro",
+        "documentation": {}
+    },
+    {
+        "label": "ErroParam",
+        "kind": 6,
+        "importPath": "src.lib.sae.erro",
+        "description": "src.lib.sae.erro",
+        "peekOfCode": "class ErroParam(Exception):\n    \"\"\"\n    Excepção de parâmetro inválido\n    \"\"\"\n    def __init__(self, erro, param):\n        \"\"\"\n        iniciar excepção\n        @param erro: erro ocorrido\n        @param param: parâmetros a apresentar\n        \"\"\"",
+        "detail": "src.lib.sae.erro",
+        "documentation": {}
+    },
+    {
+        "label": "erro_terminar",
+        "kind": 2,
+        "importPath": "src.lib.sae.erro",
+        "description": "src.lib.sae.erro",
+        "peekOfCode": "def erro_terminar(erro, *param):\n    \"\"\"\n    Indicar erro e terminar execução\n    @param erro: erro ocorrido\n    @param param: parâmetros a apresentar\n    \"\"\"\n    texto = \"\\n*** Simulador de ambiente ***\\nErro: %s\\n%s\\n\" % (\n        erro.value, \n        '\\n'.join(map(str, param))\n    )",
+        "detail": "src.lib.sae.erro",
+        "documentation": {}
+    },
+    {
+        "label": "Simulador",
+        "kind": 6,
+        "importPath": "src.lib.sae.simulador",
+        "description": "src.lib.sae.simulador",
+        "peekOfCode": "class Simulador:\n    def __init__(self, num_amb, agente, largura=LARGURA, reiniciar=False):\n        \"\"\"\n        Iniciar simulador\n        @param num_amb: número do ambiente\n        @param controlo: controlo do agente a activar\n        @param largura: largura do ambiente em pixeis\n        @param reiniciar: reiniciar simulação\n        \"\"\"\n        # Iniciar ambiente",
+        "detail": "src.lib.sae.simulador",
+        "documentation": {}
+    },
+    {
+        "label": "LARGURA",
+        "kind": 5,
+        "importPath": "src.lib.sae.simulador",
+        "description": "src.lib.sae.simulador",
+        "peekOfCode": "LARGURA = 600\n\"\"\"Largura do ambiente em pixeis\"\"\"\nFPS = 20\n\"\"\"Taxa de actualização da imagem\"\"\"\n#_____________________________________________________________\nclass Simulador:\n    def __init__(self, num_amb, agente, largura=LARGURA, reiniciar=False):\n        \"\"\"\n        Iniciar simulador\n        @param num_amb: número do ambiente",
+        "detail": "src.lib.sae.simulador",
+        "documentation": {}
+    },
+    {
+        "label": "FPS",
+        "kind": 5,
+        "importPath": "src.lib.sae.simulador",
+        "description": "src.lib.sae.simulador",
+        "peekOfCode": "FPS = 20\n\"\"\"Taxa de actualização da imagem\"\"\"\n#_____________________________________________________________\nclass Simulador:\n    def __init__(self, num_amb, agente, largura=LARGURA, reiniciar=False):\n        \"\"\"\n        Iniciar simulador\n        @param num_amb: número do ambiente\n        @param controlo: controlo do agente a activar\n        @param largura: largura do ambiente em pixeis",
+        "detail": "src.lib.sae.simulador",
+        "documentation": {}
+    }
+]
