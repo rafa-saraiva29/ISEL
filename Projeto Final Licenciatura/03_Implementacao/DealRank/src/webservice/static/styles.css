@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #0A2647, #144272, #205295);
+  padding: 40px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+  gap: 30px; 
+}
+
+.logo {
+  width: 100px;  
+  height: auto;
+  border-radius: 15px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 65px;
+  font-size: 10ch;
+  color: #ABEA7C;
+}
+
+.container {
+  display: flex;
+}
+
+.section {
+  background-color: rgba(255,255,255,0.3);
+  border-radius: 12px;
+  padding: 25px;
+  margin-bottom: 20px;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.section_rank {
+  background-color: rgba(255,255,255,0.3);
+  border-radius: 12px;
+  padding: 25px;
+  margin-bottom: 20px;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+  width: 2350px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.creator-info {
+  font-size: 1rem;
+  color: #ffffff;
+  margin-bottom: 1em;
+  line-height: 1.5;
+}
+
+.creator-info strong {
+  color: #ffffff;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  padding: 12px;
+  border: 1px solid #ccc;
+  text-align: left;
+  background-color: white;
+}
+
+th {
+  background-color: #144272;
+  color: white;
+}
+
+h2 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+  margin-top: 0;
+  font-size: 35px;
+  color: #ABEA7C;
+}
+
+h3 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  font-size: 20px;
+  color: #ABEA7C;
+}
+
+input, button, textarea {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 100%;
+  padding: 10px 12px;
+  margin-top: 0px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  font-size: 1rem;
+  box-sizing: border-box;
+}
+
+input:focus, textarea:focus {
+  outline: none;
+  border-width: 3px;
+  border-color: #ABEA7C;
+}
+
+button {
+  background-color: #144272;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bolder;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #ABEA7C;
+  color: #144272;
+}
+
+pre {
+  background-color: #f0f0f0;
+  padding: 12px;
+  border-radius: 12px;
+  overflow-x: auto;
+  font-size: 0.9rem;
+  height: 20px;
+  margin-top: 0px;
+}

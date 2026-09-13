@@ -1,0 +1,63 @@
+Dados Sintéticos relativos aos Creators:
+
+Creator 1
+Description: Explores new restaurants five days a week, filming detailed reviews of menus, plating, and ambience for her YouTube and Instagram channels. Posts step-by-step tasting notes on Italian classics— from regional pasta flights to wood-fired pizzas— and rates each spot on authenticity, ingredient quality, and value. Hosts live “fork-along” streams where viewers follow her through multi-course meals, uploads short recipe recreations of standout dishes, and curates a monthly map of must-try trattorias and gelaterias for her newsletter.
+
+Creator 4
+Description: Energetic and driven, this sports-focused creator brings the discipline of an athlete and the spontaneity of an adventurer. As a professional volleyball player and coach, he blends training insights with motivational content and behind-the-scenes moments from his athletic journey. Off the court, he’s a thrill-seeker who’s always chasing his next outdoor adventure or forging meaningful partnerships. His content reflects teamwork, resilience, and a love for pushing limits—both physically and creatively. 
+
+Creator 5
+Description: Stylish, confident, and effortlessly chic, this creator lives and breathes fashion. She curates stunning outfits, beauty tutorials, and brand collaborations that reflect her eye for detail and trend-savvy sensibility. Whether she’s unboxing new collections or sharing her daily routines, her aesthetic is polished yet approachable. With a loyal following, she’s become a trusted voice in the beauty and fashion space—always inspiring others to express themselves through style.
+
+Creator 7
+Description: Playful, witty, and endlessly charismatic, this creator thrives in the world of live streaming. With a quick sense of humor and a passion for gaming, she’s known for turning even the most intense matches into moments of laughter. Whether she's battling bosses or bantering with her chat, her streams feel like hanging out with a close friend. Outside the virtual world, she’s a lover of memes, pop culture, and all things geeky, always keeping her community entertained and connected.
+
+Dados Sintéticos relativos aos Deals:
+
+Deal 1
+Title: Regional Pasta Flights Review Series with Pastificio Classico
+Description: Pastificio Classico, an artisanal producer from Emilia-Romagna, ships a regional pasta flight to you every week and reserves tables at new restaurants that feature their specials. You film detailed reviews of each venue’s menus, plating, and ambience for your YouTube and Instagram channels, then post step-by-step tasting notes rating authenticity, ingredient quality, and value. 
+
+Deal 2
+Title: Serve & Spike – Athletic Gear Collaboration
+Description: Join forces with our high-performance sportswear brand to spotlight our newest volleyball line. Post in-action reels, gear reviews, or training tips while wearing our apparel. Get exclusive gear, commission bonuses, and discount codes for your community.
+
+Deal 3
+Title: Glow Routine – Skincare Kit Launch
+Description: We’re launching a new line of glow-boosting skincare and looking for beauty-forward creators to share honest reviews and tutorials. Receive a full PR package and be featured on our socials as a skincare ambassador.
+
+Deal 4
+Title:  AdventureFuel – Energy Drink Campaign
+Description: Collaborate with our bold new energy drink brand. We’re looking for energetic creators to post challenge content, lifestyle reels, or shoutouts featuring our drinks. Includes free product, campaign bonuses, and paid features.
+
+Deal 5
+Title: City Streets – Urban Streetwear Drop
+Description: We’re launching a limited-edition urban wear collection inspired by city culture. We're looking for creators with strong style to post photo sets, fashion reels, and styling tips. Includes free items, reposts, and potential capsule collection design.
+
+Deal 6
+Title: Wood-Fired Pizza Challenge with Vero Forno
+Description: Vero Forno provides a countertop wood-pellet oven and ingredient kits. You host live fork-along streams where viewers follow your bake-off of three classic wood-fired pizzas, turned into a mini multi-course meal. Between streams you upload step-by-step tasting notes and a short recipe recreation reel for each pie.
+
+Deal 7
+Title: ProCoach – Online Training App Feature
+Description: Become an ambassador for our new coaching platform for athletes. You’ll receive a free premium membership and the chance to monetize your coaching tips and workouts via in-app content and social shoutouts.
+
+Deal 8
+Title: LuxeLens – Fashion Sunglasses Drop
+Description: Be the face of our upcoming luxury sunglasses line. We're offering product gifting and paid social content campaigns. Looking for fashion-savvy creators who can showcase unique styling with our exclusive eyewear.
+
+Deal 9
+Title: Authenticity Audit Tour with Tuscany Food Trails
+Description: Tuscany Food Trails sponsors a five-day itinerary where you explore new restaurants—from family-run trattorias to hidden-gem gelaterias—filming detailed reviews every day. Content focuses on Italian classics such as risotto, bistecca alla fiorentina, and regional desserts.
+
+Deal 10
+Title: Level Up Lounge – Gaming Chair Sponsorship
+Description: Partner with our premium ergonomic gaming chair brand and showcase comfort and performance in your stream setup. We’re offering a free chair and affiliate bonuses in exchange for authentic shoutouts and a dedicated unboxing video.
+
+Deal 11
+Title:  StreamBeats – Royalty-Free Music Promo
+Description: Help us promote our royalty-free music platform for creators. We’re offering free access to our full library and paid partnerships in exchange for behind-the-scenes content showing how you use our tracks in streams, videos, or edits.
+
+Deal 12
+Title: CozyKit – Custom Stream Overlay Bundle
+Description: We’re releasing a line of customizable stream overlays and alerts. We want content creators to show them in action and share their unique setup aesthetics. Get free bundles and earn via referral links. 

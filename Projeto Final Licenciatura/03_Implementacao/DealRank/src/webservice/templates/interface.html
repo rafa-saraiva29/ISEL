@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <title>Deal Rank</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+
+  <div class="header">
+    <img src="{{ url_for('static', filename='barter_logo.jpg') }}" alt="Logo Barter" class="logo">
+    <h1>DEAL RANK</h1>
+  </div>
+
+  <div class="container">
+    <!-- Startup -->
+    <div class="section">
+      <h2>Startup</h2>
+      <button onclick="startup()">Run Startup</button>
+      <h3>Console</h3>
+      <pre id="startupResponse"></pre>
+    </div>
+    <!-- Add Deal -->
+    <div class="section">
+      <h2>Add Deal</h2>
+      <input type="text" id="add-id" placeholder="Deal ID">
+      <input type="text" id="add-title" placeholder="Title">
+      <textarea id="add-desc" placeholder="Description"></textarea>
+      <button onclick="addDeal()">Add Deal</button>
+      <h3>Console</h3>
+      <pre id="addDealResponse"></pre>
+    </div>
+    <!-- Remove Deal -->
+    <div class="section">
+      <h2>Remove Deal</h2>
+      <input type="text" id="remove-id" placeholder="Deal ID">
+      <button onclick="removeDeal()">Remove</button>
+      <h3>Console</h3>
+      <pre id="removeDealResponse"></pre>
+    </div>
+    <!-- Update Deal -->
+    <div class="section">
+      <h2>Update Deal</h2>
+      <input type="text" id="update-id" placeholder="Deal ID">
+      <input type="text" id="update-title" placeholder="Title">
+      <textarea id="update-desc" placeholder="Description"></textarea>
+      <button onclick="updateDeal()">Update</button>
+      <h3>Console</h3>
+      <pre id="updateDealResponse"></pre>
+    </div>
+  </div>
+
+  <!-- Get Deal Rank -->
+  <div class="section_rank">
+    <h2>Get Deal Rank</h2>
+    <input type="text" id="creator-id" placeholder="Creator ID">
+    <button onclick="getDealRank()">Get Rank</button>
+    <h3>Console</h3>
+    <pre id="getDealRankResponse"></pre>
+    <div id="creatorInfo" class="creator-info" style="display: none;">
+      <strong>Creator ID:</strong> <span id="creator-id-text"></span><br>
+      <strong>Creator Description:</strong> <span id="creator-desc-text"></span>
+    </div>
+    <table id="dealRankTable" style="display: none;">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Title</th>
+          <th>Description</th>
+          <th>Distance</th>
+        </tr>
+      </thead>
+      <tbody>
+
+      </tbody>
+    </table>
+  </div>
+
+  <script>
+    const API_BASE = ''; 
+
+    async function addDeal() {
+      const id = document.getElementById('add-id').value;
+      const title = document.getElementById('add-title').value;
+      const description = document.getElementById('add-desc').value;
+
+
+      const response = await fetch(`${API_BASE}/deal`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ id, title, description })
+      });
+      document.getElementById('add-id').value = "";
+      document.getElementById('add-title').value = "";
+      document.getElementById('add-desc').value = "";
+
+      const result = await response.json();
+      showResponse(result.message || "No message received.", 'addDealResponse');
+    }
+
+    async function removeDeal() {
+      const id = document.getElementById('remove-id').value;
+      const response = await fetch(`${API_BASE}/deal/${id}`, {
+        method: 'DELETE'
+      });
+      document.getElementById('remove-id').value = "";
+
+      const result = await response.json();
+      showResponse(result.message || "No message received.", 'removeDealResponse');
+    }
+
+    async function updateDeal() {
+      const id = document.getElementById('update-id').value;
+      const title = document.getElementById('update-title').value;
+      const description = document.getElementById('update-desc').value;
+
+      const response = await fetch(`${API_BASE}/deal`, {
+        method: 'PUT',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ id, title, description })
+      });
+      document.getElementById('update-id').value = "";
+      document.getElementById('update-title').value = "";
+      document.getElementById('update-desc').value = "";
+
+      const result = await response.json();
+      showResponse(result.message || "No message received.", 'updateDealResponse');
+    }
+
+    async function getDealRank() {
+      const creatorId = document.getElementById('creator-id').value;
+      const response = await fetch(`${API_BASE}/deal/rank/${creatorId}`);
+      document.getElementById('creator-id').value = "";
+      const data = await response.json();
+      if (data.message) {
+        showResponse(data.message, 'getDealRankResponse');
+      } else {
+        showDealRank(data);
+      }
+    }
+
+    async function startup() {
+      document.getElementById('startupResponse').textContent = "Initiating Startup..."
+      const response = await fetch(`${API_BASE}/api/startup`, {
+        method: 'POST'
+      });
+      const result = await response.json();
+      showResponse(result.message || "No message received.", 'startupResponse');
+    }
+
+    function showResponse(data, field_id) {
+      switch (field_id) {
+        case 'startupResponse':
+          document.getElementById(field_id).textContent = data;
+          break;
+        
+        case 'addDealResponse':
+          document.getElementById(field_id).textContent = data;
+          break;
+        
+        case 'removeDealResponse':
+          document.getElementById(field_id).textContent = data;
+          break;
+        
+        case 'updateDealResponse':
+          document.getElementById(field_id).textContent = data;
+          break;
+        
+        case 'getDealRankResponse':
+          document.getElementById(field_id).textContent = data;
+
+      
+        default:
+          break;
+      } 
+    }
+
+    function showDealRank(data) {
+      document.getElementById('getDealRankResponse').textContent = " "
+      const table = document.getElementById('dealRankTable');
+      const tbody = table.querySelector('tbody');
+      tbody.innerHTML = '';
+
+      if (data.creator_id !== undefined && data.creator_description !== undefined) {
+        document.getElementById('creator-id-text').textContent = data.creator_id;
+        document.getElementById('creator-desc-text').textContent = data.creator_description;
+        document.getElementById('creatorInfo').style.display = 'block';
+      } else {
+        document.getElementById('creatorInfo').style.display = 'none';
+      }
+
+      const deals = data.ranked_deals || [];
+      if (deals.length === 0) {
+        table.style.display = 'none';
+        return;
+      }
+
+      deals.forEach(deal => {
+        const row = document.createElement('tr');
+
+        const idCell = document.createElement('td');
+        idCell.textContent = deal.id || '—';
+        row.appendChild(idCell);
+
+        const titleCell = document.createElement('td');
+        titleCell.textContent = deal.title || deal.message || '—';
+        row.appendChild(titleCell);
+
+        const descCell = document.createElement('td');
+        descCell.textContent = deal.description || '—';
+        row.appendChild(descCell);
+
+        const distCell = document.createElement('td');
+        distCell.textContent = deal.distance || '—';
+        row.appendChild(distCell);
+
+        tbody.appendChild(row);
+      });
+
+      table.style.display = 'table';
+    }
+
+  </script>
+
+</body>
+</html>
